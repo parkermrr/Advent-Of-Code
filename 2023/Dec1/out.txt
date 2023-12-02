@@ -1,0 +1,3002 @@
+clang main.c -o prob1
+./prob1 in.txt
+Input file: in.txt
+Before: two65eightbkgqcsn91qxkfvg
+After: 2658bkgqcsn91qxkfvg
+Number Found: 21
+Before: neightwompstbkqv1fourfthdcfgtrkqzgrbfrczxbdn
+After: n8wompstbkqv14fthdcfgtrkqzgrbfrczxbdn
+Number Found: 84
+Before: 43qsrrlxxq
+After: 43qsrrlxxq
+Number Found: 43
+Before: 898dbpjmdqjgtrvdvlxxdnvlfhncdzrt
+After: 898dbpjmdqjgtrvdvlxxdnvlfhncdzrt
+Number Found: 88
+Before: jninedsrvftdlcg4hhztwofourskrjhcjvthree
+After: j9dsrvftdlcg4hhz24skrjhcjv3
+Number Found: 93
+Before: five562
+After: 5562
+Number Found: 52
+Before: bpnjmtmeightninesix2391
+After: bpnjmtm8962391
+Number Found: 81
+Before: rftqshh47n
+After: rftqshh47n
+Number Found: 47
+Before: ctpkqsdqz97zqptzjlfbtwo
+After: ctpkqsdqz97zqptzjlfb2
+Number Found: 92
+Before: sjtwonesix6cqbv4
+After: sj2ne66cqbv4
+Number Found: 24
+Before: 9zclhrrssvzpcfpqlshfsxs
+After: 9zclhrrssvzpcfpqlshfsxs
+Number Found: 99
+Before: ninemcctrb5glhmctwol7
+After: 9mcctrb5glhmc2l7
+Number Found: 97
+Before: eight5fourtwotwo
+After: 85422
+Number Found: 82
+Before: 18frdsvjxdpxf8dxsevenm
+After: 18frdsvjxdpxf8dx7m
+Number Found: 17
+Before: five55foureight
+After: 55548
+Number Found: 58
+Before: dbqeightwo4sxzsix
+After: dbq8wo4sxz6
+Number Found: 86
+Before: ftjjqbgphtmhthreesix1six
+After: ftjjqbgphtmh3616
+Number Found: 36
+Before: 8sczkklgr5ncxkhkq
+After: 8sczkklgr5ncxkhkq
+Number Found: 85
+Before: 126dzbvg6two4oneightntd
+After: 126dzbvg6241ightntd
+Number Found: 11
+Before: fiveqcplndmmcsixksmmpdqgttwosixnine7eight
+After: 5qcplndmmc6ksmmpdqgt26978
+Number Found: 58
+Before: eightseven5threesevennine
+After: 875379
+Number Found: 89
+Before: nmxmcvrzbcppktgbznz2
+After: nmxmcvrzbcppktgbznz2
+Number Found: 22
+Before: five83
+After: 583
+Number Found: 53
+Before: 57rqxmvf12
+After: 57rqxmvf12
+Number Found: 52
+Before: 4nklcvfsix1jvsvxh8nine
+After: 4nklcvf61jvsvxh89
+Number Found: 49
+Before: tpjppv6seven4sixsevenvnhcxonefjztthdcv
+After: tpjppv67467vnhcx1fjztthdcv
+Number Found: 61
+Before: dfkcrcfxkmxccpf7sixkzlgf
+After: dfkcrcfxkmxccpf76kzlgf
+Number Found: 76
+Before: ninetwo6hfg
+After: 926hfg
+Number Found: 96
+Before: 9sfiveffxqthreeqlvhbvrpbd
+After: 9s5ffxq3qlvhbvrpbd
+Number Found: 93
+Before: gtcmqsheightthree51eight
+After: gtcmqsh83518
+Number Found: 88
+Before: lhszhqvtn12three8xvfglffivekc
+After: lhszhqvtn1238xvfglf5kc
+Number Found: 15
+Before: hntwone2cmgppck5oneonesevenone3three
+After: hn2ne2cmgppck5117133
+Number Found: 23
+Before: 8414onehlxjfqghrklv
+After: 84141hlxjfqghrklv
+Number Found: 81
+Before: cdtlrnine2onexfspkgltjrbone8
+After: cdtlr921xfspkgltjrb18
+Number Found: 98
+Before: tsjvxqljbfivefive11fourfour1st
+After: tsjvxqljb5511441st
+Number Found: 51
+Before: dhhrftncnttrqz21fbdkkcdbndmdrp
+After: dhhrftncnttrqz21fbdkkcdbndmdrp
+Number Found: 21
+Before: jsfcqhzstnxxlchnxlztwonine5
+After: jsfcqhzstnxxlchnxlz295
+Number Found: 25
+Before: twothree2nhjzlhqdlgnplkjts7
+After: 232nhjzlhqdlgnplkjts7
+Number Found: 27
+Before: 7zndkjxcp4xvqmqlgrhg
+After: 7zndkjxcp4xvqmqlgrhg
+Number Found: 74
+Before: 446sixqtk5fiveoneeight
+After: 4466qtk5518
+Number Found: 48
+Before: 3hdqtn2kjdkbzxx
+After: 3hdqtn2kjdkbzxx
+Number Found: 32
+Before: onethree8ninelggjk38xt
+After: 1389lggjk38xt
+Number Found: 18
+Before: 2bdnkxoneeightonetskninefive
+After: 2bdnkx181tsk95
+Number Found: 25
+Before: xcxfqtnpnmdmtrfivefour1seven
+After: xcxfqtnpnmdmtr5417
+Number Found: 57
+Before: 1cf
+After: 1cf
+Number Found: 11
+Before: onefive5
+After: 155
+Number Found: 15
+Before: t5dnseventhreehbvkqzhbbttvd
+After: t5dn73hbvkqzhbbttvd
+Number Found: 53
+Before: 49kdxj
+After: 49kdxj
+Number Found: 49
+Before: s743dflzcsfninefour8
+After: s743dflzcsf948
+Number Found: 78
+Before: eighteightfive7
+After: 8857
+Number Found: 87
+Before: 2zjsxntjfbkc15vtfkltb7
+After: 2zjsxntjfbkc15vtfkltb7
+Number Found: 27
+Before: knkmdgggk95two2
+After: knkmdgggk9522
+Number Found: 92
+Before: dvjdztx6kfzzsscfcj6zz
+After: dvjdztx6kfzzsscfcj6zz
+Number Found: 66
+Before: xvcnqppc4five7threethreeckhtmfeight
+After: xvcnqppc45733ckhtmf8
+Number Found: 48
+Before: 4eightthree9onexmrhrfzjjjmfm94
+After: 48391xmrhrfzjjjmfm94
+Number Found: 44
+Before: threebr7
+After: 3br7
+Number Found: 37
+Before: four188nine856
+After: 41889856
+Number Found: 46
+Before: szseven9269
+After: sz79269
+Number Found: 79
+Before: rppvmpprsgqbvbskg8fivedgpv5
+After: rppvmpprsgqbvbskg85dgpv5
+Number Found: 85
+Before: 992one
+After: 9921
+Number Found: 91
+Before: fxthfh9twothree
+After: fxthfh923
+Number Found: 93
+Before: jldmzlktzbhlsrndvn398five
+After: jldmzlktzbhlsrndvn3985
+Number Found: 35
+Before: vdzhddpsix6sixsixvbqmf8mrgnqxsxvxvdcdzmkc
+After: vdzhddp6666vbqmf8mrgnqxsxvxvdcdzmkc
+Number Found: 68
+Before: 7tv9
+After: 7tv9
+Number Found: 79
+Before: 37seventwofour
+After: 37724
+Number Found: 34
+Before: seven1six723
+After: 716723
+Number Found: 73
+Before: nxjlgr64tjlqzphzjdvgb1nd
+After: nxjlgr64tjlqzphzjdvgb1nd
+Number Found: 61
+Before: zmxldpjdsixvzcmrxxzl6
+After: zmxldpjd6vzcmrxxzl6
+Number Found: 66
+Before: 91cgn9eightzxdzfmj
+After: 91cgn98zxdzfmj
+Number Found: 98
+Before: skhtxclf2ninemqct
+After: skhtxclf29mqct
+Number Found: 29
+Before: foursixn8two7srvbbdldpbtwo
+After: 46n827srvbbdldpb2
+Number Found: 42
+Before: two5gpnnhtseven
+After: 25gpnnht7
+Number Found: 27
+Before: onepqmzphpgfive2three
+After: 1pqmzphpg523
+Number Found: 13
+Before: 5vrgsfbj
+After: 5vrgsfbj
+Number Found: 55
+Before: 5xmqhfbdt965
+After: 5xmqhfbdt965
+Number Found: 55
+Before: 263nzqjrklqkgtcgjcnprgtfj
+After: 263nzqjrklqkgtcgjcnprgtfj
+Number Found: 23
+Before: 78qrpdzmczxj7fourone2
+After: 78qrpdzmczxj7412
+Number Found: 72
+Before: 6threed
+After: 63d
+Number Found: 63
+Before: eight2twogr
+After: 822gr
+Number Found: 82
+Before: 96five
+After: 965
+Number Found: 95
+Before: 2ndkfivetwo6
+After: 2ndk526
+Number Found: 26
+Before: 41fourckqxpdxdctnqmljkrl
+After: 414ckqxpdxdctnqmljkrl
+Number Found: 44
+Before: 68fzpjjvfhjv4fourhsvqtwo
+After: 68fzpjjvfhjv44hsvq2
+Number Found: 62
+Before: ffqnvbxdzxhsxg9sevenkhpmnflbgfqsvfzfmxnlfcq
+After: ffqnvbxdzxhsxg97khpmnflbgfqsvfzfmxnlfcq
+Number Found: 97
+Before: eight1six38one8g
+After: 8163818g
+Number Found: 88
+Before: 5xhdtqshnc9foureightwog
+After: 5xhdtqshnc948wog
+Number Found: 58
+Before: two9llmcgxhjdghbv
+After: 29llmcgxhjdghbv
+Number Found: 29
+Before: 9twoeightsix
+After: 9286
+Number Found: 96
+Before: f4qmsfgvzxfvxgq33twocmfnd
+After: f4qmsfgvzxfvxgq332cmfnd
+Number Found: 42
+Before: vqq8two8nhsqpgqnzrsixsix
+After: vqq828nhsqpgqnzr66
+Number Found: 86
+Before: dbxfbl98nllgpsix7
+After: dbxfbl98nllgp67
+Number Found: 97
+Before: svzgxfspxjfbcvonefour4
+After: svzgxfspxjfbcv144
+Number Found: 14
+Before: eightonefour3nine8
+After: 814398
+Number Found: 88
+Before: tqhgbkzmhseven656tczxkfkztwo
+After: tqhgbkzmh7656tczxkfkz2
+Number Found: 72
+Before: pckdctnzvxdgz4
+After: pckdctnzvxdgz4
+Number Found: 44
+Before: 5pg
+After: 5pg
+Number Found: 55
+Before: 7two7vqtqxmddlbhppmpx8kldcgcfeight
+After: 727vqtqxmddlbhppmpx8kldcgcf8
+Number Found: 78
+Before: gdbmfmppzl96452
+After: gdbmfmppzl96452
+Number Found: 92
+Before: rpnmhfzclkmftsjkpone4sixmjhbjprx
+After: rpnmhfzclkmftsjkp146mjhbjprx
+Number Found: 16
+Before: 16ljkbvbbc77sixvjlcpdqkvkcrfqslfzvtrqf
+After: 16ljkbvbbc776vjlcpdqkvkcrfqslfzvtrqf
+Number Found: 16
+Before: 4threetwonedrd
+After: 432nedrd
+Number Found: 42
+Before: seven5mqgztxfqdfdssbc
+After: 75mqgztxfqdfdssbc
+Number Found: 75
+Before: 6eightsixpb
+After: 686pb
+Number Found: 66
+Before: 7jqktjqrthoneeightthreeqpssplvh669
+After: 7jqktjqrth183qpssplvh669
+Number Found: 79
+Before: fivekjfktwo21jgtjdxeightseven
+After: 5kjfk221jgtjdx87
+Number Found: 57
+Before: cjfvqzvtsstsvqsdgzlcrqnmmkgtvlclhfddeight6
+After: cjfvqzvtsstsvqsdgzlcrqnmmkgtvlclhfdd86
+Number Found: 86
+Before: 8247819snr
+After: 8247819snr
+Number Found: 89
+Before: 684
+After: 684
+Number Found: 64
+Before: threedqsvxzfmgrbrtjmjtzjeight57
+After: 3dqsvxzfmgrbrtjmjtzj857
+Number Found: 37
+Before: 1three1233tvbpqrlrpz
+After: 131233tvbpqrlrpz
+Number Found: 13
+Before: bxlljzgmc4twothreenldkshgt
+After: bxlljzgmc423nldkshgt
+Number Found: 43
+Before: eight9dmzftbzmsgmxvhx7khsgvgmbgg
+After: 89dmzftbzmsgmxvhx7khsgvgmbgg
+Number Found: 87
+Before: threehbvlqone9sevenxbccbppjxj
+After: 3hbvlq197xbccbppjxj
+Number Found: 37
+Before: jthreesixqlxlvtwo8
+After: j36qlxlv28
+Number Found: 38
+Before: cg5nineonejtmpthkqncdmcrjztml
+After: cg591jtmpthkqncdmcrjztml
+Number Found: 51
+Before: six69sixone5fourvhnzkxqrkm2
+After: 6696154vhnzkxqrkm2
+Number Found: 62
+Before: mkpqfbjrninemvngbxl1nine5seven
+After: mkpqfbjr9mvngbxl1957
+Number Found: 97
+Before: qgxhthreetphvh4fh
+After: qgxh3tphvh4fh
+Number Found: 34
+Before: four84
+After: 484
+Number Found: 44
+Before: 8cdhf9fivexqsxljf
+After: 8cdhf95xqsxljf
+Number Found: 85
+Before: eighthmfq788eight
+After: 8hmfq7888
+Number Found: 88
+Before: sevenktvsvvxj8fourgdbnpnthreethreenine1
+After: 7ktvsvvxj84gdbnpn3391
+Number Found: 71
+Before: zlcmzfsxdvthree6
+After: zlcmzfsxdv36
+Number Found: 36
+Before: mscdeight3
+After: mscd83
+Number Found: 83
+Before: lhzcxzthree8seven87
+After: lhzcxz38787
+Number Found: 37
+Before: rnrldrcponeqfdlxgz1lpxtf23sixkdqz
+After: rnrldrcp1qfdlxgz1lpxtf236kdqz
+Number Found: 16
+Before: 6fiveeightsixthreefour
+After: 658634
+Number Found: 64
+Before: onetwo1nine5gsvbzlsfrp4
+After: 12195gsvbzlsfrp4
+Number Found: 14
+Before: fivefivesix82qhdhnxbgmbttgdqq92
+After: 55682qhdhnxbgmbttgdqq92
+Number Found: 52
+Before: jk886lfour
+After: jk886l4
+Number Found: 84
+Before: kcqmt6qk7gcdzzzzdljdmh3nineshcfnbnnd
+After: kcqmt6qk7gcdzzzzdljdmh39shcfnbnnd
+Number Found: 69
+Before: sevenfour2krdvsfour
+After: 742krdvs4
+Number Found: 74
+Before: kbvlbhfbjqnr9three
+After: kbvlbhfbjqnr93
+Number Found: 93
+Before: two17
+After: 217
+Number Found: 27
+Before: dlvndnhdbjgtp57
+After: dlvndnhdbjgtp57
+Number Found: 57
+Before: pqvxgonesix8k72pfmsjl
+After: pqvxg168k72pfmsjl
+Number Found: 12
+Before: eight7xq3
+After: 87xq3
+Number Found: 83
+Before: xgzxgtfqvsvvtfr23fzkvphdjmm
+After: xgzxgtfqvsvvtfr23fzkvphdjmm
+Number Found: 23
+Before: 8hbkggrpxq8two3fivefour8six
+After: 8hbkggrpxq8235486
+Number Found: 86
+Before: tcxntnppqtbflnzfour6zzgrpvxjtf
+After: tcxntnppqtbflnz46zzgrpvxjtf
+Number Found: 46
+Before: 2sevenninefive5
+After: 27955
+Number Found: 25
+Before: sdvxrpt5lhzmkknseven2one9
+After: sdvxrpt5lhzmkkn7219
+Number Found: 59
+Before: 7pcpmgghrbt1zpllhshcsnine
+After: 7pcpmgghrbt1zpllhshcs9
+Number Found: 79
+Before: cf8
+After: cf8
+Number Found: 88
+Before: mfxnmj2ninesix58eight58
+After: mfxnmj29658858
+Number Found: 28
+Before: 8hfnnclmmsg64scdrtdkfivetwo
+After: 8hfnnclmmsg64scdrtdk52
+Number Found: 82
+Before: 9four1sixj1three
+After: 9416j13
+Number Found: 93
+Before: 7nrcxngrxxsixmccsb4rhztxmklmccpttwo
+After: 7nrcxngrxx6mccsb4rhztxmklmccpt2
+Number Found: 72
+Before: jgtdvpseven7two59
+After: jgtdvp77259
+Number Found: 79
+Before: 369seven
+After: 3697
+Number Found: 37
+Before: onegdlthd9one8sixseventhree
+After: 1gdlthd918673
+Number Found: 13
+Before: 6eight9seven
+After: 6897
+Number Found: 67
+Before: 94five
+After: 945
+Number Found: 95
+Before: 6one282three9one
+After: 61282391
+Number Found: 61
+Before: 7rgxznfbf
+After: 7rgxznfbf
+Number Found: 77
+Before: zrtoneight9sfnsixninesevenzvqdxqjrcdm
+After: zrt1ight9sfn697zvqdxqjrcdm
+Number Found: 17
+Before: five6sixkxksxone3six
+After: 566kxksx136
+Number Found: 56
+Before: qjqrjkjvplkxqvthree58ktgq
+After: qjqrjkjvplkxqv358ktgq
+Number Found: 38
+Before: 7kkc
+After: 7kkc
+Number Found: 77
+Before: hr54pmdtnpvzrlskpqrrqhbrnzz
+After: hr54pmdtnpvzrlskpqrrqhbrnzz
+Number Found: 54
+Before: 99sixfgnfour389one
+After: 996fgn43891
+Number Found: 91
+Before: ltteightwothreefourfivenine7
+After: ltt8wo34597
+Number Found: 87
+Before: kzpzschjsptdpd6fiveninemxfxlkbmfl
+After: kzpzschjsptdpd659mxfxlkbmfl
+Number Found: 69
+Before: eight7dqpvvplkjxgrxxtvt
+After: 87dqpvvplkjxgrxxtvt
+Number Found: 87
+Before: 41nine
+After: 419
+Number Found: 49
+Before: 61
+After: 61
+Number Found: 61
+Before: 5qfneight7bhhnine8eightoneightfrx
+After: 5qfn87bhh988on8frx
+Number Found: 58
+Before: 34cjbcqzeighttwoqfdtqtqbl1
+After: 34cjbcqz82qfdtqtqbl1
+Number Found: 31
+Before: twofivehbxftnsixhtffgqksdseven6
+After: 25hbxftn6htffgqksd76
+Number Found: 26
+Before: 84mnkvppxk18
+After: 84mnkvppxk18
+Number Found: 88
+Before: 62four6rsph
+After: 6246rsph
+Number Found: 66
+Before: 8fourctcnnzfz
+After: 84ctcnnzfz
+Number Found: 84
+Before: 5jngcrllpnonefive
+After: 5jngcrllpn15
+Number Found: 55
+Before: grmspdlkv42tdzctls
+After: grmspdlkv42tdzctls
+Number Found: 42
+Before: 67sixeight1
+After: 67681
+Number Found: 61
+Before: ninetwo52
+After: 9252
+Number Found: 92
+Before: 9jdvzhzflgxmsixzklv4cldfivetdmhrlm
+After: 9jdvzhzflgxm6zklv4cld5tdmhrlm
+Number Found: 95
+Before: eight7twoghldrbzhleightjs
+After: 872ghldrbzhl8js
+Number Found: 88
+Before: ninenp8
+After: 9np8
+Number Found: 98
+Before: jxqjeight48qljhkkbfctonethreejfqlr
+After: jxqj848qljhkkbfct13jfqlr
+Number Found: 83
+Before: z9lxzgzkbmr7jtgpczmvblfour1
+After: z9lxzgzkbmr7jtgpczmvbl41
+Number Found: 91
+Before: 545two
+After: 5452
+Number Found: 52
+Before: 56tkxjhndzmtwofour
+After: 56tkxjhndzm24
+Number Found: 54
+Before: 1ninesixpxxxlfnfn
+After: 196pxxxlfnfn
+Number Found: 16
+Before: 6threesix9twojrmtl4
+After: 63692jrmtl4
+Number Found: 64
+Before: 6rjzjlxh5tdfkbjzvm
+After: 6rjzjlxh5tdfkbjzvm
+Number Found: 65
+Before: g8one7ccsix
+After: g817cc6
+Number Found: 86
+Before: 4jxhxrgrhxv6threegkdsgvzxpzzrjclzrn5
+After: 4jxhxrgrhxv63gkdsgvzxpzzrjclzrn5
+Number Found: 45
+Before: qhdjbsh5
+After: qhdjbsh5
+Number Found: 55
+Before: 8mmngf4lpngqnbtxz
+After: 8mmngf4lpngqnbtxz
+Number Found: 84
+Before: zstqrl5sevengcndbztdcr
+After: zstqrl57gcndbztdcr
+Number Found: 57
+Before: mmdsseveneightfdbthreezbqkdbb3
+After: mmds78fdb3zbqkdbb3
+Number Found: 73
+Before: kkntgp94937
+After: kkntgp94937
+Number Found: 97
+Before: 2zrzntn8three
+After: 2zrzntn83
+Number Found: 23
+Before: klklfnxcnmczrjlprktwo55
+After: klklfnxcnmczrjlprk255
+Number Found: 25
+Before: 7ninecqjtkjsdkqgqvcxtcone6
+After: 79cqjtkjsdkqgqvcxtc16
+Number Found: 76
+Before: bgjjheight5txcsjbvv1
+After: bgjjh85txcsjbvv1
+Number Found: 81
+Before: rqbk4
+After: rqbk4
+Number Found: 44
+Before: soneight2qxbfdkdn51ttfourfiveninesix
+After: s1ight2qxbfdkdn51tt4596
+Number Found: 16
+Before: czxhmh73llnlspseven8hfqzdpdqmg
+After: czxhmh73llnlsp78hfqzdpdqmg
+Number Found: 78
+Before: 26zmphsljkkddzbkninesixnine7
+After: 26zmphsljkkddzbk9697
+Number Found: 27
+Before: 45six
+After: 456
+Number Found: 46
+Before: 9f
+After: 9f
+Number Found: 99
+Before: 6five6nine2sevenzzzmvzlh
+After: 656927zzzmvzlh
+Number Found: 67
+Before: hfnfour8blpsixvhdz26twotwoneft
+After: hfn48blp6vhdz2622neft
+Number Found: 42
+Before: 87twofive
+After: 8725
+Number Found: 85
+Before: 6one92six34vfive
+After: 6192634v5
+Number Found: 65
+Before: nine82nine5dbmjmsixseven2
+After: 98295dbmjm672
+Number Found: 92
+Before: 6rmgq8eightqxrj3tkljktsjxz
+After: 6rmgq88qxrj3tkljktsjxz
+Number Found: 63
+Before: onefour49sevenfour5
+After: 1449745
+Number Found: 15
+Before: sevenftckbsfivegfbgmpcvvvtqdhmbfive8
+After: 7ftckbs5gfbgmpcvvvtqdhmb58
+Number Found: 78
+Before: hqrdprfhxpfjnlqvx2fivethree9onevxbqtpg6
+After: hqrdprfhxpfjnlqvx25391vxbqtpg6
+Number Found: 26
+Before: clz76eight
+After: clz768
+Number Found: 78
+Before: seven6fourjvxzrfivethree7cgtvmsfzb
+After: 764jvxzr537cgtvmsfzb
+Number Found: 77
+Before: 4sixseven7jktrblrk7five
+After: 4677jktrblrk75
+Number Found: 45
+Before: tqlgpnp682qnhpspbfm
+After: tqlgpnp682qnhpspbfm
+Number Found: 62
+Before: mtfive4
+After: mt54
+Number Found: 54
+Before: 6ninexkds1slbdnlfp66nine
+After: 69xkds1slbdnlfp669
+Number Found: 69
+Before: 9sevencdqf
+After: 97cdqf
+Number Found: 97
+Before: jcqccfzmgffrxjcvhpzonerlzkpvk71four38
+After: jcqccfzmgffrxjcvhpz1rlzkpvk71438
+Number Found: 18
+Before: fourtwofourfivetjzpqmzvmmcseven3
+After: 4245tjzpqmzvmmc73
+Number Found: 43
+Before: zqoneight9
+After: zq1ight9
+Number Found: 19
+Before: 4twotwo
+After: 422
+Number Found: 42
+Before: eightgfqzzcs8eightkkklhsvkmsseven
+After: 8gfqzzcs88kkklhsvkms7
+Number Found: 87
+Before: twosix4
+After: 264
+Number Found: 24
+Before: eightfkthjb83
+After: 8fkthjb83
+Number Found: 83
+Before: 8gmqlpdbftwo15sevenjllkpnp
+After: 8gmqlpdbf2157jllkpnp
+Number Found: 87
+Before: 378onefourlqcq
+After: 37814lqcq
+Number Found: 34
+Before: rxlnmcphmzckgz9bpzonezcjcgvdteight
+After: rxlnmcphmzckgz9bpz1zcjcgvdt8
+Number Found: 98
+Before: sevenfive2rmzbpmfvplxdvvldnghmfive
+After: 752rmzbpmfvplxdvvldnghm5
+Number Found: 75
+Before: tvbctwo1twofoursevenkjbjd
+After: tvbc21247kjbjd
+Number Found: 27
+Before: veightbkkp9vntmeightjdrc
+After: v8bkkp9vntm8jdrc
+Number Found: 88
+Before: ltdmmnlsjzzxqtvnghxjnvg48bqvvvcj
+After: ltdmmnlsjzzxqtvnghxjnvg48bqvvvcj
+Number Found: 48
+Before: seven4frssnmkjhf
+After: 74frssnmkjhf
+Number Found: 74
+Before: nine975
+After: 9975
+Number Found: 95
+Before: zcpdghhlhrvcmxftoneeight4
+After: zcpdghhlhrvcmxft184
+Number Found: 14
+Before: rgkxgfkx6cqdxjhdqdf2eight2vzkbbpklqnine
+After: rgkxgfkx6cqdxjhdqdf282vzkbbpklq9
+Number Found: 69
+Before: one6six5
+After: 1665
+Number Found: 15
+Before: six5seveneight
+After: 6578
+Number Found: 68
+Before: 23krkcf
+After: 23krkcf
+Number Found: 23
+Before: sdpthreetwo3
+After: sdp323
+Number Found: 33
+Before: eight28
+After: 828
+Number Found: 88
+Before: 3twomdpsvbpvhthreegfrdfqtnttk
+After: 32mdpsvbpvh3gfrdfqtnttk
+Number Found: 33
+Before: 9sixsixcqbdd94bzxmjn
+After: 966cqbdd94bzxmjn
+Number Found: 94
+Before: 6fbbbrvzkzbhhlgthree
+After: 6fbbbrvzkzbhhlg3
+Number Found: 63
+Before: hgrnflhgqhd6628three
+After: hgrnflhgqhd66283
+Number Found: 63
+Before: 58tfxks
+After: 58tfxks
+Number Found: 58
+Before: rfcmcfive51nine
+After: rfcmc5519
+Number Found: 59
+Before: 3eight9
+After: 389
+Number Found: 39
+Before: 6threecktkhlvcdkmcxdflsdrcfmkpxrmq
+After: 63cktkhlvcdkmcxdflsdrcfmkpxrmq
+Number Found: 63
+Before: fourssvlkcsninesix38fourkfrgbdxlhx
+After: 4ssvlkcs96384kfrgbdxlhx
+Number Found: 44
+Before: mbhqsceightnine5bzxfnrzdgcvsg
+After: mbhqsc895bzxfnrzdgcvsg
+Number Found: 85
+Before: gfjlsvmkfourhf9qfpxmlqkninecrbnjrfpninejdntmjglk
+After: gfjlsvmk4hf9qfpxmlqk9crbnjrfp9jdntmjglk
+Number Found: 49
+Before: fiveonesix58onefourdnl
+After: 5165814dnl
+Number Found: 54
+Before: hkd33lgcjrpf6four
+After: hkd33lgcjrpf64
+Number Found: 34
+Before: ftsbbgmv3fourrmctcsxrfv
+After: ftsbbgmv34rmctcsxrfv
+Number Found: 34
+Before: rkmgfour58841
+After: rkmg458841
+Number Found: 41
+Before: gmgskgrfhc54cvpgkkhdhfseventhreefour
+After: gmgskgrfhc54cvpgkkhdhf734
+Number Found: 54
+Before: three9onegjdmsfthreelrpqfj1hdmbd5
+After: 391gjdmsf3lrpqfj1hdmbd5
+Number Found: 35
+Before: mkjbxcc9375
+After: mkjbxcc9375
+Number Found: 95
+Before: onejxpczj2twofive5one7
+After: 1jxpczj225517
+Number Found: 17
+Before: vhclzbp77
+After: vhclzbp77
+Number Found: 77
+Before: 8onesevenseven1
+After: 81771
+Number Found: 81
+Before: 3seventhfivefiveseven
+After: 37th557
+Number Found: 37
+Before: bpnrkxlnxrq4dzjljgjg2five4three
+After: bpnrkxlnxrq4dzjljgjg2543
+Number Found: 43
+Before: fivekpxonegm76jqtjrlrns
+After: 5kpx1gm76jqtjrlrns
+Number Found: 56
+Before: pmmqkgdmljhdvsixsix6gdrrx
+After: pmmqkgdmljhdv666gdrrx
+Number Found: 66
+Before: 6rzjmrhlr
+After: 6rzjmrhlr
+Number Found: 66
+Before: sixqnblcchkfnstwo9two4xdjns
+After: 6qnblcchkfns2924xdjns
+Number Found: 64
+Before: twolmffnfmdfptjcdtwogqzhtbvph18six
+After: 2lmffnfmdfptjcd2gqzhtbvph186
+Number Found: 26
+Before: 5threefivefive2czfcvqrjcmlcctgninefour
+After: 53552czfcvqrjcmlcctg94
+Number Found: 54
+Before: 9cvntxx
+After: 9cvntxx
+Number Found: 99
+Before: 4sevengzlzjnntxz9ghcpcgvbm9three
+After: 47gzlzjnntxz9ghcpcgvbm93
+Number Found: 43
+Before: 2qcck3one
+After: 2qcck31
+Number Found: 21
+Before: sixqxqnjxk6ls1rdtxkb31
+After: 6qxqnjxk6ls1rdtxkb31
+Number Found: 61
+Before: 8onefiveeightljp2
+After: 8158ljp2
+Number Found: 82
+Before: six7one85ptxktrlbtfdtz
+After: 67185ptxktrlbtfdtz
+Number Found: 65
+Before: ltgnfzcjblvrdclkonesqgbgplqm3threeeighttwo
+After: ltgnfzcjblvrdclk1sqgbgplqm3382
+Number Found: 12
+Before: 1xmnr
+After: 1xmnr
+Number Found: 11
+Before: pcxkjdtcmnineeight1rl8four5eightwoqvc
+After: pcxkjdtcm981rl8458woqvc
+Number Found: 98
+Before: twovlhtdxctsnsixfourvsixsqfhbjzklsix2
+After: 2vlhtdxctsn64v6sqfhbjzkl62
+Number Found: 22
+Before: 6hcdhsgzv
+After: 6hcdhsgzv
+Number Found: 66
+Before: 1six8qjdsfbnlzj93gpj
+After: 168qjdsfbnlzj93gpj
+Number Found: 13
+Before: twoxfktts2xmjvcxkjjf
+After: 2xfktts2xmjvcxkjjf
+Number Found: 22
+Before: gkgqmdxcfkb6fjjzfsqbhnzxjzsvzkfv
+After: gkgqmdxcfkb6fjjzfsqbhnzxjzsvzkfv
+Number Found: 66
+Before: 6oneonefourxrnpf19
+After: 6114xrnpf19
+Number Found: 69
+Before: qqgsckgrrh5svt2vsd6
+After: qqgsckgrrh5svt2vsd6
+Number Found: 56
+Before: sixtns37
+After: 6tns37
+Number Found: 67
+Before: jqgfcbrd7eightsixrgkqtkf
+After: jqgfcbrd786rgkqtkf
+Number Found: 76
+Before: 4bkfpntttsjonemhtcgsnzvjxcftzssdlntlv7
+After: 4bkfpntttsj1mhtcgsnzvjxcftzssdlntlv7
+Number Found: 47
+Before: 9jvjqzgrzxslffdfhmcfournhqfckgmfnone
+After: 9jvjqzgrzxslffdfhmc4nhqfckgmfn1
+Number Found: 91
+Before: dgeightwothree2zhzfb2
+After: dg8wo32zhzfb2
+Number Found: 82
+Before: tldpeight77mh88two
+After: tldp877mh882
+Number Found: 82
+Before: 49fiveeightfiveseven4
+After: 4958574
+Number Found: 44
+Before: three3rpbrvnp2rgnppsctpcqqfd
+After: 33rpbrvnp2rgnppsctpcqqfd
+Number Found: 32
+Before: 1one2sixfleightwokhz
+After: 1126fl8wokhz
+Number Found: 18
+Before: 7cnnnp6lzcjxfsqbbfqgvnqhklcktrvrlmfszmqchfnine
+After: 7cnnnp6lzcjxfsqbbfqgvnqhklcktrvrlmfszmqchf9
+Number Found: 79
+Before: one9sdqnzhhnine5pkqthqsskrfourgkxbqpzkrxpkrvnk
+After: 19sdqnzhh95pkqthqsskr4gkxbqpzkrxpkrvnk
+Number Found: 14
+Before: gbhvg145twohnqfqnj2mxg9
+After: gbhvg1452hnqfqnj2mxg9
+Number Found: 19
+Before: 2sevenoneqfzbfqpcfour
+After: 271qfzbfqpc4
+Number Found: 24
+Before: pgcxrr3qhvngreight3four7
+After: pgcxrr3qhvngr8347
+Number Found: 37
+Before: vvbfrnqvgmq3eight3sevenllllfn
+After: vvbfrnqvgmq3837llllfn
+Number Found: 37
+Before: twonineqtklzqnd7fourjpqthree
+After: 29qtklzqnd74jpq3
+Number Found: 23
+Before: 82sixtwonez
+After: 8262nez
+Number Found: 82
+Before: nfmjv8pgqtqnkpmb83
+After: nfmjv8pgqtqnkpmb83
+Number Found: 83
+Before: seventwontjbdcs8mthreeqdgfg1
+After: 72ntjbdcs8m3qdgfg1
+Number Found: 71
+Before: 2fiveqeight
+After: 25q8
+Number Found: 28
+Before: 3ninexqt6fourfourone
+After: 39xqt6441
+Number Found: 31
+Before: 9ninesevenzmhskrfour2qpqzhqpbgrfiveeight
+After: 997zmhskr42qpqzhqpbgr58
+Number Found: 98
+Before: twofxmpt7fvxkqbht
+After: 2fxmpt7fvxkqbht
+Number Found: 27
+Before: xmtgrngscqninesix5twotwo7
+After: xmtgrngscq965227
+Number Found: 97
+Before: onetwo8nvhckltwo
+After: 128nvhckl2
+Number Found: 12
+Before: 686one1seven
+After: 686117
+Number Found: 67
+Before: 986l
+After: 986l
+Number Found: 96
+Before: 4ninepxhzxmhgsixjncqfhqlnb
+After: 49pxhzxmhg6jncqfhqlnb
+Number Found: 46
+Before: 5tkvsnpp
+After: 5tkvsnpp
+Number Found: 55
+Before: njfqd5eighthgzsixnhxgt
+After: njfqd58hgz6nhxgt
+Number Found: 56
+Before: seven3seven8seven
+After: 73787
+Number Found: 77
+Before: zceightsixninetwo9vxmfscp
+After: zc86929vxmfscp
+Number Found: 89
+Before: threemgb77nineg1vzlbvhgrms
+After: 3mgb779g1vzlbvhgrms
+Number Found: 31
+Before: 5onelfpdchkrqpshsixtwofiveseven
+After: 51lfpdchkrqpsh6257
+Number Found: 57
+Before: 6zmjpkzxttksevenpkbdvksphjseven
+After: 6zmjpkzxttk7pkbdvksphj7
+Number Found: 67
+Before: smeightwo993
+After: sm8wo993
+Number Found: 83
+Before: one987cckfncdctz15sevenkdtrzkkmdz
+After: 1987cckfncdctz157kdtrzkkmdz
+Number Found: 17
+Before: 8rhbpeightseventhree9
+After: 8rhbp8739
+Number Found: 89
+Before: nrnxccfzhrrxhsjhlthreethreenk1nine73
+After: nrnxccfzhrrxhsjhl33nk1973
+Number Found: 33
+Before: nineone5threekxv2
+After: 9153kxv2
+Number Found: 92
+Before: fivertwotwonnrlhqzfpbntdjhv5k
+After: 5r22nnrlhqzfpbntdjhv5k
+Number Found: 55
+Before: ppqtrhfkdbpkflpnlx85nddjxdctf4fx
+After: ppqtrhfkdbpkflpnlx85nddjxdctf4fx
+Number Found: 84
+Before: lmtwone472
+After: lm2ne472
+Number Found: 22
+Before: 3vcpbonejmtssvkn3one
+After: 3vcpb1jmtssvkn31
+Number Found: 31
+Before: 8twoninembzfkjdtvdnd1three
+After: 829mbzfkjdtvdnd13
+Number Found: 83
+Before: eightsixzrrv35hmcpmgjkchfourrg
+After: 86zrrv35hmcpmgjkch4rg
+Number Found: 84
+Before: h87lhbgmzg48twoonenine
+After: h87lhbgmzg48219
+Number Found: 89
+Before: six1289src
+After: 61289src
+Number Found: 69
+Before: 5fiveqrmscnnqn21
+After: 55qrmscnnqn21
+Number Found: 51
+Before: ninefourfiveninexlcpxt1
+After: 9459xlcpxt1
+Number Found: 91
+Before: onesix181onesixjds7
+After: 1618116jds7
+Number Found: 17
+Before: 4zvqzgvcd9dzhjzkcgflnhhfive
+After: 4zvqzgvcd9dzhjzkcgflnhh5
+Number Found: 45
+Before: 6threefive7dlvgpzh
+After: 6357dlvgpzh
+Number Found: 67
+Before: 3xtvthree
+After: 3xtv3
+Number Found: 33
+Before: one3cjckmone1six
+After: 13cjckm116
+Number Found: 16
+Before: sixsdtgjtxhsh4qmkqgsp
+After: 6sdtgjtxhsh4qmkqgsp
+Number Found: 64
+Before: bznsevenfive6seven6eight7
+After: bzn7567687
+Number Found: 77
+Before: 7ninetwo4scmttkmkmhjgz1
+After: 7924scmttkmkmhjgz1
+Number Found: 71
+Before: 32fiveffxpvvfive
+After: 325ffxpvv5
+Number Found: 35
+Before: 8twotwosglcjkxtfour
+After: 822sglcjkxt4
+Number Found: 84
+Before: 8ninetwo6fivetwo
+After: 892652
+Number Found: 82
+Before: ninevjfqnbqshgcnznb2two4
+After: 9vjfqnbqshgcnznb224
+Number Found: 94
+Before: 1btbsqfgxz7
+After: 1btbsqfgxz7
+Number Found: 17
+Before: 37skthonehgnine
+After: 37skth1hg9
+Number Found: 39
+Before: qprsldzcbzcskqpgpnvjt4fivegpqllvq52
+After: qprsldzcbzcskqpgpnvjt45gpqllvq52
+Number Found: 42
+Before: qnqpzpkmfj5ninejsix6bpcn2
+After: qnqpzpkmfj59j66bpcn2
+Number Found: 52
+Before: 28jmvbtljsldltwo68fssrjvqtwonev
+After: 28jmvbtljsldl268fssrjvq2nev
+Number Found: 22
+Before: fourthreefivepxqrrjm7threezjsdhfs
+After: 435pxqrrjm73zjsdhfs
+Number Found: 43
+Before: 7kmhsdlrsqlonegbr7
+After: 7kmhsdlrsql1gbr7
+Number Found: 77
+Before: onesixfourbdcgeight53lzpgjlsz
+After: 164bdcg853lzpgjlsz
+Number Found: 13
+Before: qgpgg377
+After: qgpgg377
+Number Found: 37
+Before: five17
+After: 517
+Number Found: 57
+Before: zpmslnjkqc3
+After: zpmslnjkqc3
+Number Found: 33
+Before: fourvmqhvhdgseven7jtpttjlzvsbfkdrj
+After: 4vmqhvhdg77jtpttjlzvsbfkdrj
+Number Found: 47
+Before: bdgcfcsevenfive8527
+After: bdgcfc758527
+Number Found: 77
+Before: 1ninesevennine
+After: 1979
+Number Found: 19
+Before: 4sixfour4nh7sixnlkdk
+After: 4644nh76nlkdk
+Number Found: 46
+Before: shjz737
+After: shjz737
+Number Found: 77
+Before: 7onecrhjhbqqnn2sixqqgseven
+After: 71crhjhbqqnn26qqg7
+Number Found: 77
+Before: 6six1kxpczbxoneone
+After: 661kxpczbx11
+Number Found: 61
+Before: 512vnxncqgtsevenfivesnc
+After: 512vnxncqgt75snc
+Number Found: 55
+Before: sevenrrdrzlht5
+After: 7rrdrzlht5
+Number Found: 75
+Before: 6ltsix
+After: 6lt6
+Number Found: 66
+Before: 87sixfourgjh
+After: 8764gjh
+Number Found: 84
+Before: ngtzsrpxsfpmjzk2
+After: ngtzsrpxsfpmjzk2
+Number Found: 22
+Before: onefour462ql5mcfqrglrp
+After: 14462ql5mcfqrglrp
+Number Found: 15
+Before: l88oneninetbh5nine2
+After: l8819tbh592
+Number Found: 82
+Before: scgzzmeightqrltnkbjxrglbvsrpd2
+After: scgzzm8qrltnkbjxrglbvsrpd2
+Number Found: 82
+Before: 7krheightjlzzmthdrqsnkdqqlkone2
+After: 7krh8jlzzmthdrqsnkdqqlk12
+Number Found: 72
+Before: three4fivexn2nine
+After: 345xn29
+Number Found: 39
+Before: sixseven8one6
+After: 67816
+Number Found: 66
+Before: seven46five8
+After: 74658
+Number Found: 78
+Before: bmbfd8
+After: bmbfd8
+Number Found: 88
+Before: one99xgk2
+After: 199xgk2
+Number Found: 12
+Before: fivetxfjpmnhdl7
+After: 5txfjpmnhdl7
+Number Found: 57
+Before: gktgcbronefiver2d
+After: gktgcbr15r2d
+Number Found: 12
+Before: 444six6
+After: 44466
+Number Found: 46
+Before: dpdbxrtnnlsfkh694xnqhszfbvcc2
+After: dpdbxrtnnlsfkh694xnqhszfbvcc2
+Number Found: 62
+Before: 53mznqnine4dpkkx82
+After: 53mznq94dpkkx82
+Number Found: 52
+Before: 6sixldcgszrhhvrbhdnc
+After: 66ldcgszrhhvrbhdnc
+Number Found: 66
+Before: djfpppftbx6three9ncfour5two
+After: djfpppftbx639nc452
+Number Found: 62
+Before: eightljcvn565fivethreegsjbfsjsc
+After: 8ljcvn56553gsjbfsjsc
+Number Found: 83
+Before: grdtdczfm5krxslvfk
+After: grdtdczfm5krxslvfk
+Number Found: 55
+Before: 1threekpnhkjbgch2
+After: 13kpnhkjbgch2
+Number Found: 12
+Before: four37
+After: 437
+Number Found: 47
+Before: ctlxgcgzj57gmninethree75three
+After: ctlxgcgzj57gm93753
+Number Found: 53
+Before: lffrgk4
+After: lffrgk4
+Number Found: 44
+Before: one256jxbthjxhtj989kfqnrdhhxz
+After: 1256jxbthjxhtj989kfqnrdhhxz
+Number Found: 19
+Before: three3ddsxpt1lgkzlpxfiveninebsnbntpnnine
+After: 33ddsxpt1lgkzlpx59bsnbntpn9
+Number Found: 39
+Before: qxskrjjvtp1chgksksxksg79
+After: qxskrjjvtp1chgksksxksg79
+Number Found: 19
+Before: 8zjvmfkpnrc32twotqdc6vshzv
+After: 8zjvmfkpnrc322tqdc6vshzv
+Number Found: 86
+Before: 8hgdrds54zk
+After: 8hgdrds54zk
+Number Found: 84
+Before: twokr6vkbflkfrcjxvmninenineeight
+After: 2kr6vkbflkfrcjxvm998
+Number Found: 28
+Before: grjxdtngmrthreerqjvmxbrdvlmqninegslrzfgmcpdhmg8
+After: grjxdtngmr3rqjvmxbrdvlmq9gslrzfgmcpdhmg8
+Number Found: 38
+Before: 5tkdszfcjdm
+After: 5tkdszfcjdm
+Number Found: 55
+Before: 7jbzvrdprgdx7npn
+After: 7jbzvrdprgdx7npn
+Number Found: 77
+Before: ctwoneqcmffptjzpone3brdtb4bjnzqx
+After: c2neqcmffptjzp13brdtb4bjnzqx
+Number Found: 24
+Before: eight4tjfvrvlcfgdtk61fouroneightjvf
+After: 84tjfvrvlcfgdtk614on8jvf
+Number Found: 88
+Before: eightsix9four7
+After: 86947
+Number Found: 87
+Before: 827
+After: 827
+Number Found: 87
+Before: 8pgcksninemrt
+After: 8pgcks9mrt
+Number Found: 89
+Before: bggbhgh8
+After: bggbhgh8
+Number Found: 88
+Before: fiveqsqvlsxc9jnhfdtqvsq71zvlh2
+After: 5qsqvlsxc9jnhfdtqvsq71zvlh2
+Number Found: 52
+Before: 3z1mrzxfdkqsixseven
+After: 3z1mrzxfdkq67
+Number Found: 37
+Before: kbrtclpktwo6btgpxnbrz8
+After: kbrtclpk26btgpxnbrz8
+Number Found: 28
+Before: 5ninefour6three
+After: 59463
+Number Found: 53
+Before: 8ninefxfivekrkklfvnr6
+After: 89fx5krkklfvnr6
+Number Found: 86
+Before: ftkndksixznvhxrdmj414seven
+After: ftkndk6znvhxrdmj4147
+Number Found: 67
+Before: fourdjjxhb3
+After: 4djjxhb3
+Number Found: 43
+Before: four82
+After: 482
+Number Found: 42
+Before: 277leightsixseven91
+After: 277l86791
+Number Found: 21
+Before: 4czktzmzctsdqgpqthreekjfm4
+After: 4czktzmzctsdqgpq3kjfm4
+Number Found: 44
+Before: 78onezmcxjbrheightfourtltlrnjpg
+After: 781zmcxjbrh84tltlrnjpg
+Number Found: 74
+Before: zvclmdhrrbmslgfmrgtvzpnvqmth1one281
+After: zvclmdhrrbmslgfmrgtvzpnvqmth11281
+Number Found: 11
+Before: dnkf3seventwo
+After: dnkf372
+Number Found: 32
+Before: sdtpcdc5
+After: sdtpcdc5
+Number Found: 55
+Before: rtn6vfmtvg
+After: rtn6vfmtvg
+Number Found: 66
+Before: gkeightworqtjvmc3fqpzqsevenfivecxff
+After: gk8worqtjvmc3fqpzq75cxff
+Number Found: 85
+Before: four49gxrkmfdl5three
+After: 449gxrkmfdl53
+Number Found: 43
+Before: 9nine3326bcxnclqgsgbng
+After: 993326bcxnclqgsgbng
+Number Found: 96
+Before: mjrvfrz7frq2sixfour
+After: mjrvfrz7frq264
+Number Found: 74
+Before: twosix3
+After: 263
+Number Found: 23
+Before: j7
+After: j7
+Number Found: 77
+Before: four73zfrdrns
+After: 473zfrdrns
+Number Found: 43
+Before: st14pjnfgqpj
+After: st14pjnfgqpj
+Number Found: 14
+Before: dlceightwo53dcjzxft9
+After: dlc8wo53dcjzxft9
+Number Found: 89
+Before: 333mzmtlrhkjgsixcjzdrshhpv
+After: 333mzmtlrhkjg6cjzdrshhpv
+Number Found: 36
+Before: vp6stsvtntboneseventwokmdvgthnine
+After: vp6stsvtntb172kmdvgth9
+Number Found: 69
+Before: 92v2thc
+After: 92v2thc
+Number Found: 92
+Before: seveneightfivetwofour6
+After: 785246
+Number Found: 76
+Before: three76jfx3ninekndxqschpfive
+After: 376jfx39kndxqschp5
+Number Found: 35
+Before: fivefxgbhfour58n
+After: 5fxgbh458n
+Number Found: 58
+Before: nineninezgn6kbblgf
+After: 99zgn6kbblgf
+Number Found: 96
+Before: rjvrx4four71one51
+After: rjvrx4471151
+Number Found: 41
+Before: 4mvmdqjfxhzpddseven7nine76
+After: 4mvmdqjfxhzpdd77976
+Number Found: 46
+Before: 86mbxjvs
+After: 86mbxjvs
+Number Found: 86
+Before: 3twosevenfiveh8fiveseven
+After: 3275h857
+Number Found: 37
+Before: 54bczbfjq9cseven5
+After: 54bczbfjq9c75
+Number Found: 55
+Before: nvghzbcjxn57nineldlklgb5fdkqvbzftl
+After: nvghzbcjxn579ldlklgb5fdkqvbzftl
+Number Found: 55
+Before: 97mtvstpkrzkrg46four
+After: 97mtvstpkrzkrg464
+Number Found: 94
+Before: tp8
+After: tp8
+Number Found: 88
+Before: four8sixphlcct5
+After: 486phlcct5
+Number Found: 45
+Before: 2pkccvfmp
+After: 2pkccvfmp
+Number Found: 22
+Before: ninevmvlmvqqnone69foureight9
+After: 9vmvlmvqqn169489
+Number Found: 99
+Before: four2xlqrmlp48vdzsevenhtrcjbpc
+After: 42xlqrmlp48vdz7htrcjbpc
+Number Found: 47
+Before: ffvhhtgz78threeone
+After: ffvhhtgz7831
+Number Found: 71
+Before: bfjnjxr342555
+After: bfjnjxr342555
+Number Found: 35
+Before: 4czvdggxlbzcthreerjfshqhmj7
+After: 4czvdggxlbzc3rjfshqhmj7
+Number Found: 47
+Before: 6three24khccsqcnddq
+After: 6324khccsqcnddq
+Number Found: 64
+Before: 659
+After: 659
+Number Found: 69
+Before: five3lxchdtfvlnjn9mcs9jlsvzbcgvk
+After: 53lxchdtfvlnjn9mcs9jlsvzbcgvk
+Number Found: 59
+Before: mfnonefivetwon2mrbsc
+After: mfn152n2mrbsc
+Number Found: 12
+Before: hvxv9three5
+After: hvxv935
+Number Found: 95
+Before: 75ninektwoseventhreefour
+After: 759k2734
+Number Found: 74
+Before: zvjrcxchzrz7seven
+After: zvjrcxchzrz77
+Number Found: 77
+Before: jhmbsknfm5498qtwo
+After: jhmbsknfm5498q2
+Number Found: 52
+Before: scjnfvnld72gvtzd
+After: scjnfvnld72gvtzd
+Number Found: 72
+Before: 8fivesixtwo
+After: 8562
+Number Found: 82
+Before: tdjkrtrdj7twoneg
+After: tdjkrtrdj72neg
+Number Found: 72
+Before: 8one3five
+After: 8135
+Number Found: 85
+Before: 2nncbsevenseven
+After: 2nncb77
+Number Found: 27
+Before: fourtfqfnsixfourtwo9threerblgths
+After: 4tfqfn64293rblgths
+Number Found: 43
+Before: twoninebgxnphjsixseven4
+After: 29bgxnphj674
+Number Found: 24
+Before: threesevenxjgbpl321
+After: 37xjgbpl321
+Number Found: 31
+Before: fourtwopjzfourqvnknmmdlsrhnkonefour1
+After: 42pjz4qvnknmmdlsrhnk141
+Number Found: 41
+Before: six9ninevkxnpmnpjrmnptwo
+After: 699vkxnpmnpjrmnp2
+Number Found: 62
+Before: eightseven4fivethree8
+After: 874538
+Number Found: 88
+Before: nine6nineonezdbrz621
+After: 9691zdbrz621
+Number Found: 91
+Before: 4fivezhvzlvrblm3mgzhf56
+After: 45zhvzlvrblm3mgzhf56
+Number Found: 46
+Before: dfkdbtreightfhrp1
+After: dfkdbtr8fhrp1
+Number Found: 81
+Before: oneeightonecpnkkhpcpqt73
+After: 181cpnkkhpcpqt73
+Number Found: 13
+Before: nine9fdgbzxhvbslzlhkpone78five
+After: 99fdgbzxhvbslzlhkp1785
+Number Found: 95
+Before: two74
+After: 274
+Number Found: 24
+Before: 5three36rl7vnk6one
+After: 5336rl7vnk61
+Number Found: 51
+Before: onetj152twoqtjgvsnjpd
+After: 1tj1522qtjgvsnjpd
+Number Found: 12
+Before: 6ninefive
+After: 695
+Number Found: 65
+Before: fourszvmjknhhvmznine73eightklhbbnrljk4
+After: 4szvmjknhhvmz9738klhbbnrljk4
+Number Found: 44
+Before: 89eightjcdftnine
+After: 898jcdft9
+Number Found: 89
+Before: gn7oneeightzcshvfttpnvxrxjdc
+After: gn718zcshvfttpnvxrxjdc
+Number Found: 78
+Before: four78five44
+After: 478544
+Number Found: 44
+Before: tnqmjzd2fivehqpkrkdrkqr
+After: tnqmjzd25hqpkrkdrkqr
+Number Found: 25
+Before: eight6eightfhbqqsqqs1twolhbfsjxfxj
+After: 868fhbqqsqqs12lhbfsjxfxj
+Number Found: 82
+Before: 4two4xhppfx
+After: 424xhppfx
+Number Found: 44
+Before: gnfqgghz4xnlcxqpccktwofivextpskbcnn7six
+After: gnfqgghz4xnlcxqpcck25xtpskbcnn76
+Number Found: 46
+Before: seven133bpthreeone5x
+After: 7133bp315x
+Number Found: 75
+Before: 3five55four
+After: 35554
+Number Found: 34
+Before: 6pgmbbbnmrrpdqzjkbsrpfhstwo
+After: 6pgmbbbnmrrpdqzjkbsrpfhs2
+Number Found: 62
+Before: 556vfzmcbxsqg8
+After: 556vfzmcbxsqg8
+Number Found: 58
+Before: 59fiveflckfmthdd3nine
+After: 595flckfmthdd39
+Number Found: 59
+Before: 2nine5six2twosevenqrdp
+After: 2956227qrdp
+Number Found: 27
+Before: qsghpdqfivethreefive8
+After: qsghpdq5358
+Number Found: 58
+Before: ninesevennine1
+After: 9791
+Number Found: 91
+Before: onevkqcgdc6
+After: 1vkqcgdc6
+Number Found: 16
+Before: bcdspxmhzsqfhhlghmqh5794blxm
+After: bcdspxmhzsqfhhlghmqh5794blxm
+Number Found: 54
+Before: 8eight2twomd9gvtd7
+After: 8822md9gvtd7
+Number Found: 87
+Before: gfjxcczktc8
+After: gfjxcczktc8
+Number Found: 88
+Before: ccpgbl3zqtmqjztwox
+After: ccpgbl3zqtmqjz2x
+Number Found: 32
+Before: jvkvvklb5nine2dfsmkljl4hpjbhlpdmt
+After: jvkvvklb592dfsmkljl4hpjbhlpdmt
+Number Found: 54
+Before: 3rxzrnkdrnltzd
+After: 3rxzrnkdrnltzd
+Number Found: 33
+Before: fivetwoone6
+After: 5216
+Number Found: 56
+Before: zcsf5rnxgckhktworqsqngvk8xdgtfcdseven9
+After: zcsf5rnxgckhk2rqsqngvk8xdgtfcd79
+Number Found: 59
+Before: rsbfcsix3jbqnqeightsixonelrhfhlldhhfg
+After: rsbfc63jbqnq861lrhfhlldhhfg
+Number Found: 61
+Before: njpnzndmdfzkpdseven5rvcsxheightthree
+After: njpnzndmdfzkpd75rvcsxh83
+Number Found: 73
+Before: ninethree6zplfz1seven
+After: 936zplfz17
+Number Found: 97
+Before: 7dknfz
+After: 7dknfz
+Number Found: 77
+Before: ninebkhfqdsrone2two5six4
+After: 9bkhfqdsr122564
+Number Found: 94
+Before: 1x
+After: 1x
+Number Found: 11
+Before: mhrzpkcmf5three
+After: mhrzpkcmf53
+Number Found: 53
+Before: 9vzrqrmtzqnkdhrhv
+After: 9vzrqrmtzqnkdhrhv
+Number Found: 99
+Before: g3
+After: g3
+Number Found: 33
+Before: sixthreefourtwonln9fourvqgbbht
+After: 6342nln94vqgbbht
+Number Found: 64
+Before: vfvzttx86db
+After: vfvzttx86db
+Number Found: 86
+Before: cpcrxvp5eightfourseven5fivetqnine
+After: cpcrxvp584755tq9
+Number Found: 59
+Before: 7fsfmgbntxrmjmpmmkcnbx
+After: 7fsfmgbntxrmjmpmmkcnbx
+Number Found: 77
+Before: sevenrkmm6threeseven
+After: 7rkmm637
+Number Found: 77
+Before: fivefivebgdssdxqfnthreethreelvln5eight
+After: 55bgdssdxqfn33lvln58
+Number Found: 58
+Before: vxrxtzmtmtssjsevenfourmnhtzdthree4fivesrpcrb
+After: vxrxtzmtmtssj74mnhtzd345srpcrb
+Number Found: 75
+Before: t8fxpzbnfivesix6fhrcklhvfive
+After: t8fxpzbn566fhrcklhv5
+Number Found: 85
+Before: 6threetzjvzkbdp
+After: 63tzjvzkbdp
+Number Found: 63
+Before: gflz6nine5
+After: gflz695
+Number Found: 65
+Before: ldnn7qjz1lcgsmvjpbtplztmvseven3
+After: ldnn7qjz1lcgsmvjpbtplztmv73
+Number Found: 73
+Before: threefourtwoeightdfpbjbggx3m
+After: 3428dfpbjbggx3m
+Number Found: 33
+Before: 4nineonenine6kkzsmfdrl
+After: 49196kkzsmfdrl
+Number Found: 46
+Before: lmmpsdmnnsrgkbzcdfive5
+After: lmmpsdmnnsrgkbzcd55
+Number Found: 55
+Before: 4onethreejcrgddkxthree
+After: 413jcrgddkx3
+Number Found: 43
+Before: 9twonexr
+After: 92nexr
+Number Found: 92
+Before: pvjdlxv1xlgkdsixsixone1four
+After: pvjdlxv1xlgkd66114
+Number Found: 14
+Before: fourtwofivenine2
+After: 42592
+Number Found: 42
+Before: xl8
+After: xl8
+Number Found: 88
+Before: tfmfive7
+After: tfm57
+Number Found: 57
+Before: 9q8svkhxgvbmhseven
+After: 9q8svkhxgvbmh7
+Number Found: 97
+Before: fournmtqnnphzckqsnpqddlvgff1ninetfhdknbnl
+After: 4nmtqnnphzckqsnpqddlvgff19tfhdknbnl
+Number Found: 49
+Before: 6fivetwo59gxbzxrkdvhfive3
+After: 65259gxbzxrkdvh53
+Number Found: 63
+Before: ndbrshkmc9
+After: ndbrshkmc9
+Number Found: 99
+Before: 4fourseven
+After: 447
+Number Found: 47
+Before: lkdcxdkkxthq5
+After: lkdcxdkkxthq5
+Number Found: 55
+Before: ftwo2pgpljh11fpbgl2
+After: f22pgpljh11fpbgl2
+Number Found: 22
+Before: hhjrfcchcjlhninexmv6
+After: hhjrfcchcjlh9xmv6
+Number Found: 96
+Before: 9bpzdrrfqcs7eightwob
+After: 9bpzdrrfqcs78wob
+Number Found: 98
+Before: 8eightfive
+After: 885
+Number Found: 85
+Before: 57nnbqt5eightzvfblxstz9scfnnv
+After: 57nnbqt58zvfblxstz9scfnnv
+Number Found: 59
+Before: 92three7xkkdskhvseven
+After: 9237xkkdskhv7
+Number Found: 97
+Before: ghlbrzxhlkh63three
+After: ghlbrzxhlkh633
+Number Found: 63
+Before: 5nine7fourtwo78
+After: 5974278
+Number Found: 58
+Before: 3dvxdphhxgrbfrlq4qxzslfng8rrfjnpjdnxc
+After: 3dvxdphhxgrbfrlq4qxzslfng8rrfjnpjdnxc
+Number Found: 38
+Before: brq68eightoneightvrx
+After: brq688on8vrx
+Number Found: 68
+Before: four7twooneeighttwo
+After: 472182
+Number Found: 42
+Before: onenine2nineninesixfive
+After: 1929965
+Number Found: 15
+Before: slltwone8kngkhvgkkphrmgprnm9
+After: sll2ne8kngkhvgkkphrmgprnm9
+Number Found: 29
+Before: twonhsxggcslm3zqmsixfive
+After: 2nhsxggcslm3zqm65
+Number Found: 25
+Before: pzgpspbfivetwosix9btjbdfbdeightj
+After: pzgpspb5269btjbdfbd8j
+Number Found: 58
+Before: fivezpdk34ninephlzvddrmzvkztwo
+After: 5zpdk349phlzvddrmzvkz2
+Number Found: 52
+Before: sevenfour223qvxrdrvqgkqpctbrzeightqtxjnhgz
+After: 74223qvxrdrvqgkqpctbrz8qtxjnhgz
+Number Found: 78
+Before: 7373sevenrrsfzsfour
+After: 73737rrsfzs4
+Number Found: 74
+Before: rttwovggcqtzx2993
+After: rt2vggcqtzx2993
+Number Found: 23
+Before: twonineonegpcpdqrpd284
+After: 291gpcpdqrpd284
+Number Found: 24
+Before: 2fourfrzkbkhninegseven83one
+After: 24frzkbkh9g7831
+Number Found: 21
+Before: 1pjqvdntbseventhree
+After: 1pjqvdntb73
+Number Found: 13
+Before: eight19tszhr
+After: 819tszhr
+Number Found: 89
+Before: hngn5fqfcfxrnfs
+After: hngn5fqfcfxrnfs
+Number Found: 55
+Before: 6xsxcgkdstncdl19c1two
+After: 6xsxcgkdstncdl19c12
+Number Found: 62
+Before: cvrdkrqrmssevenfivecjblqxjbzqtvkqhmcm18
+After: cvrdkrqrms75cjblqxjbzqtvkqhmcm18
+Number Found: 78
+Before: zqtblgtqttwo9gmkcfkdcgbq83
+After: zqtblgtqt29gmkcfkdcgbq83
+Number Found: 23
+Before: bdrmrsrdfponeeight3fvvsrfbshbzbqztmhbbzpkxxnb9eight
+After: bdrmrsrdfp183fvvsrfbshbzbqztmhbbzpkxxnb98
+Number Found: 18
+Before: 4trjldtsjdc8vkgvseven
+After: 4trjldtsjdc8vkgv7
+Number Found: 47
+Before: 37fourfive9three7nine
+After: 37459379
+Number Found: 39
+Before: fourseveneighteight7fiveonexxmmjzlbhk
+After: 4788751xxmmjzlbhk
+Number Found: 41
+Before: fivetwothree8seveneighttwo5nine
+After: 523878259
+Number Found: 59
+Before: mqmeightwo3
+After: mqm8wo3
+Number Found: 83
+Before: 8cjkdcdk
+After: 8cjkdcdk
+Number Found: 88
+Before: 6cjnjht51knzzcsqkvtwo
+After: 6cjnjht51knzzcsqkv2
+Number Found: 62
+Before: 5dshlzzxxggninesix1two
+After: 5dshlzzxxgg9612
+Number Found: 52
+Before: 9seven1eightonef7
+After: 97181f7
+Number Found: 97
+Before: two75sixfivesixhthreethree
+After: 275656h33
+Number Found: 23
+Before: 1fntfzqrjcxlfprglcsix7
+After: 1fntfzqrjcxlfprglc67
+Number Found: 17
+Before: 4lgcgkseven
+After: 4lgcgk7
+Number Found: 47
+Before: r15two
+After: r152
+Number Found: 12
+Before: eightdsxsnqgfnbntvnqtsfpr1
+After: 8dsxsnqgfnbntvnqtsfpr1
+Number Found: 81
+Before: sddbms6nine6
+After: sddbms696
+Number Found: 66
+Before: 7tpdrfpbd
+After: 7tpdrfpbd
+Number Found: 77
+Before: flmztqone7sixzdqlxhfiveoneone
+After: flmztq176zdqlxh511
+Number Found: 11
+Before: jzpvdcvnzmmgzhxlcsevennine2
+After: jzpvdcvnzmmgzhxlc792
+Number Found: 72
+Before: nineseven3cqktfscgtf
+After: 973cqktfscgtf
+Number Found: 93
+Before: rdhrxhfn8hbhctkkxz3
+After: rdhrxhfn8hbhctkkxz3
+Number Found: 83
+Before: 7cjzxmlvq48kvmxgmcd
+After: 7cjzxmlvq48kvmxgmcd
+Number Found: 78
+Before: twoeightlqpfv5fourdfv77
+After: 28lqpfv54dfv77
+Number Found: 27
+Before: 8sixfivegnsevenlgdkfcfznine
+After: 865gn7lgdkfcfz9
+Number Found: 89
+Before: fk8hcndpfflmsbjlseven
+After: fk8hcndpfflmsbjl7
+Number Found: 87
+Before: 1onesscdrlztwoonezfm
+After: 11sscdrlz21zfm
+Number Found: 11
+Before: n8xdcmfxvvgm1b
+After: n8xdcmfxvvgm1b
+Number Found: 81
+Before: psix3
+After: p63
+Number Found: 63
+Before: gmpnine5ninekfmmhbrnq
+After: gmp959kfmmhbrnq
+Number Found: 99
+Before: 713six
+After: 7136
+Number Found: 76
+Before: gqplptccrthreethree3jdgbtx
+After: gqplptccr333jdgbtx
+Number Found: 33
+Before: 1onergncpbv
+After: 11rgncpbv
+Number Found: 11
+Before: 5fivetwo7two6nine
+After: 5527269
+Number Found: 59
+Before: 4sixqrrtqjnv7
+After: 46qrrtqjnv7
+Number Found: 47
+Before: onetwo7364fqrjghsbzp
+After: 127364fqrjghsbzp
+Number Found: 14
+Before: five7shstn
+After: 57shstn
+Number Found: 57
+Before: 5sixkcspphnsxndzfdghh
+After: 56kcspphnsxndzfdghh
+Number Found: 56
+Before: jhxpxxpfz4sfkpgeight9ninedclxgv3
+After: jhxpxxpfz4sfkpg899dclxgv3
+Number Found: 43
+Before: fourqfzqsgpt4ljtrrxn2
+After: 4qfzqsgpt4ljtrrxn2
+Number Found: 42
+Before: 8seveneight6fhnf9onethree
+After: 8786fhnf913
+Number Found: 83
+Before: bjgdq8two8m6bnnbdtqvlf
+After: bjgdq828m6bnnbdtqvlf
+Number Found: 86
+Before: eightgjrvdjhz6
+After: 8gjrvdjhz6
+Number Found: 86
+Before: rdkvkqhfourdpn7tkjbflm7
+After: rdkvkqh4dpn7tkjbflm7
+Number Found: 47
+Before: 1ptthreeeightonetwogbh95
+After: 1pt3812gbh95
+Number Found: 15
+Before: 92four96
+After: 92496
+Number Found: 96
+Before: 2sevenpkfgj75
+After: 27pkfgj75
+Number Found: 25
+Before: lpfnmmp2eightmbrzxdskx7ninetwo
+After: lpfnmmp28mbrzxdskx792
+Number Found: 22
+Before: gjmxfive7qqrbsr
+After: gjmx57qqrbsr
+Number Found: 57
+Before: qxprvlrhxlj1threethreevrvvc2eighttwo
+After: qxprvlrhxlj133vrvvc282
+Number Found: 12
+Before: vdqmnccqsplkpmspqcggvllsxvh1
+After: vdqmnccqsplkpmspqcggvllsxvh1
+Number Found: 11
+Before: fvdhvmgzseven2fnrrslbdtwo6
+After: fvdhvmgz72fnrrslbd26
+Number Found: 76
+Before: fivefive9smbxkkp192
+After: 559smbxkkp192
+Number Found: 52
+Before: vbsdstvbknldcgkzkgqjln7
+After: vbsdstvbknldcgkzkgqjln7
+Number Found: 77
+Before: mklnltnfsixphfgfzseven8fivenine
+After: mklnltnf6phfgfz7859
+Number Found: 69
+Before: jbshrqn2three844
+After: jbshrqn23844
+Number Found: 24
+Before: 6nspp1one7three5
+After: 6nspp11735
+Number Found: 65
+Before: six3four571
+After: 634571
+Number Found: 61
+Before: nqjssphmsbhbfhp822one
+After: nqjssphmsbhbfhp8221
+Number Found: 81
+Before: 9kffmtffiveeight3
+After: 9kffmtf583
+Number Found: 93
+Before: sbfbphdgjh4sixbfcrzmnlhxcsksctb5tdtm
+After: sbfbphdgjh46bfcrzmnlhxcsksctb5tdtm
+Number Found: 45
+Before: 7bfzk7mvrglxjfour2tzrkz4
+After: 7bfzk7mvrglxj42tzrkz4
+Number Found: 74
+Before: onethree36
+After: 1336
+Number Found: 16
+Before: zdtcr45four2tpgqsix
+After: zdtcr4542tpgq6
+Number Found: 46
+Before: sevenmqgjhcjpnine63zllrtnm1
+After: 7mqgjhcjp963zllrtnm1
+Number Found: 71
+Before: jnccdbplkfq6oneightd
+After: jnccdbplkfq61ightd
+Number Found: 61
+Before: one8flhbdbl93
+After: 18flhbdbl93
+Number Found: 13
+Before: rrmd34
+After: rrmd34
+Number Found: 34
+Before: six1lkthggkbtwo5onesixthree
+After: 61lkthggkb25163
+Number Found: 63
+Before: eightl294eightlb
+After: 8l2948lb
+Number Found: 88
+Before: eightzngvqdmfgvfvhlrxnfourcfggfgp9
+After: 8zngvqdmfgvfvhlrxn4cfggfgp9
+Number Found: 89
+Before: dkmzgc73l
+After: dkmzgc73l
+Number Found: 73
+Before: 839fourone5
+After: 839415
+Number Found: 85
+Before: xfklsdj6three22
+After: xfklsdj6322
+Number Found: 62
+Before: soneight6cvgndhbtttlbpqktwo
+After: s1ight6cvgndhbtttlbpqk2
+Number Found: 12
+Before: 5nine1four471pnnvsix
+After: 5914471pnnv6
+Number Found: 56
+Before: zqrfmnpgzkqrshrpktfbndvfmrcjhfqlhcbn9rrffzngrhnthreedbgcm
+After: zqrfmnpgzkqrshrpktfbndvfmrcjhfqlhcbn9rrffzngrhn3dbgcm
+Number Found: 93
+Before: xcmt2fournine
+After: xcmt249
+Number Found: 29
+Before: seventfgnkd87sixthree
+After: 7tfgnkd8763
+Number Found: 73
+Before: 77fktkx
+After: 77fktkx
+Number Found: 77
+Before: 3mdzzsvdmltl7jeightfivenine
+After: 3mdzzsvdmltl7j859
+Number Found: 39
+Before: seven988five
+After: 79885
+Number Found: 75
+Before: 9975
+After: 9975
+Number Found: 95
+Before: eight4sbc5eight9
+After: 84sbc589
+Number Found: 89
+Before: mxj53bsh8fourzv4
+After: mxj53bsh84zv4
+Number Found: 54
+Before: 817
+After: 817
+Number Found: 87
+Before: 99ninevnonecfcbsjgnrzrdffll
+After: 999vn1cfcbsjgnrzrdffll
+Number Found: 91
+Before: twofftvkshm4
+After: 2fftvkshm4
+Number Found: 24
+Before: one221jjbtlgdtt
+After: 1221jjbtlgdtt
+Number Found: 11
+Before: 68sevenfive2lhrblxpkdq8nine3
+After: 68752lhrblxpkdq893
+Number Found: 63
+Before: 39cjrgljlvxdfivenhptwoccjbhtnmqreighteight
+After: 39cjrgljlvxd5nhp2ccjbhtnmqr88
+Number Found: 38
+Before: sixfoursix74fzdtnx92
+After: 64674fzdtnx92
+Number Found: 62
+Before: rhpktnqsvqxn51
+After: rhpktnqsvqxn51
+Number Found: 51
+Before: 35nine1
+After: 3591
+Number Found: 31
+Before: 43gqzppsnktxm2
+After: 43gqzppsnktxm2
+Number Found: 42
+Before: 5five566dtbppfp
+After: 55566dtbppfp
+Number Found: 56
+Before: nine7one23sixsix
+After: 9712366
+Number Found: 96
+Before: 93fourbqmsspdhr
+After: 934bqmsspdhr
+Number Found: 94
+Before: cm5qcfxfcsg3qcvstwozhsnspg
+After: cm5qcfxfcsg3qcvs2zhsnspg
+Number Found: 52
+Before: 227two
+After: 2272
+Number Found: 22
+Before: qfrtvpnh8
+After: qfrtvpnh8
+Number Found: 88
+Before: one4jzmmmjjk
+After: 14jzmmmjjk
+Number Found: 14
+Before: 4vxvngmtjxldcn2
+After: 4vxvngmtjxldcn2
+Number Found: 42
+Before: bjgb2kvrlshdvfj1hnpfbtxkp
+After: bjgb2kvrlshdvfj1hnpfbtxkp
+Number Found: 21
+Before: 7eightpzmxcmcnsmtkxjt
+After: 78pzmxcmcnsmtkxjt
+Number Found: 78
+Before: hzhjbddqj961zkxgmhxdthreetwo3
+After: hzhjbddqj961zkxgmhxd323
+Number Found: 93
+Before: 7fivetwo5dvpplrmxqrzxtwofive
+After: 7525dvpplrmxqrzx25
+Number Found: 75
+Before: 717mfszgrbt
+After: 717mfszgrbt
+Number Found: 77
+Before: chqhsqt7hcmbjqstfive
+After: chqhsqt7hcmbjqst5
+Number Found: 75
+Before: threesevenkknvhhtt7399k
+After: 37kknvhhtt7399k
+Number Found: 39
+Before: 7n
+After: 7n
+Number Found: 77
+Before: 6twohzlngv
+After: 62hzlngv
+Number Found: 62
+Before: eightthreekkgt9mqzvkql9txh4
+After: 83kkgt9mqzvkql9txh4
+Number Found: 84
+Before: 8fcsndmltseven
+After: 8fcsndmlt7
+Number Found: 87
+Before: twodjscb5sxfourtwod
+After: 2djscb5sx42d
+Number Found: 22
+Before: 5ssbz
+After: 5ssbz
+Number Found: 55
+Before: onedvpnnfvqxvfour1jggdsxfdgrqfrgvssix
+After: 1dvpnnfvqxv41jggdsxfdgrqfrgvs6
+Number Found: 16
+Before: sevenk94mthklgmsxhxdjxslvfive
+After: 7k94mthklgmsxhxdjxslv5
+Number Found: 75
+Before: bjqshcpk26
+After: bjqshcpk26
+Number Found: 26
+Before: nine7sixzx7
+After: 976zx7
+Number Found: 97
+Before: 9threexsfqxqhvvbsjzrbmxcfssix
+After: 93xsfqxqhvvbsjzrbmxcfs6
+Number Found: 96
+Before: geightwonineqp7twoeight79
+After: g8wo9qp72879
+Number Found: 89
+Before: 8b8dllrmvgnmhshvkhm
+After: 8b8dllrmvgnmhshvkhm
+Number Found: 88
+Before: 7grpghbfourlsixthree7
+After: 7grpghb4l637
+Number Found: 77
+Before: 1xzrhgxsh7threetrqqvsl1hcmmk
+After: 1xzrhgxsh73trqqvsl1hcmmk
+Number Found: 11
+Before: fivetwoppnseven9sltkmcsntzldvqzfour
+After: 52ppn79sltkmcsntzldvqz4
+Number Found: 54
+Before: 6flgcsj
+After: 6flgcsj
+Number Found: 66
+Before: nine44onedninesix7
+After: 9441d967
+Number Found: 97
+Before: hrlfdsmjqtbpfpxljhjrrxrrdnrlzf34eight
+After: hrlfdsmjqtbpfpxljhjrrxrrdnrlzf348
+Number Found: 38
+Before: sevenrzgsvq6
+After: 7rzgsvq6
+Number Found: 76
+Before: 39sixjshdjrfmstwo2tzmzhgggdqgflp
+After: 396jshdjrfms22tzmzhgggdqgflp
+Number Found: 32
+Before: tcrvlffrmqrcx6bqbvhlcbgtwo351
+After: tcrvlffrmqrcx6bqbvhlcbg2351
+Number Found: 61
+Before: 9281qzt35jmtpjgqq
+After: 9281qzt35jmtpjgqq
+Number Found: 95
+Before: qpdtvpmfbqrmthreetvlsr2fzbzkthreerhqvqbcnj
+After: qpdtvpmfbqrm3tvlsr2fzbzk3rhqvqbcnj
+Number Found: 33
+Before: two3fgrnggpcl
+After: 23fgrnggpcl
+Number Found: 23
+Before: 7onexrnvssfjczlmkzgprnone2khmhntg
+After: 71xrnvssfjczlmkzgprn12khmhntg
+Number Found: 72
+Before: 6lzggxthreefour26tnxfcqbl37
+After: 6lzggx3426tnxfcqbl37
+Number Found: 67
+Before: 8rgnffphzgponejfive
+After: 8rgnffphzgp1j5
+Number Found: 85
+Before: bmpsevennhrkphhbfz8nine
+After: bmp7nhrkphhbfz89
+Number Found: 79
+Before: 5mkbbjdcqninenine9
+After: 5mkbbjdcq999
+Number Found: 59
+Before: zrfvhcreightone9five
+After: zrfvhcr8195
+Number Found: 85
+Before: 19chrfkm6gqlfcfhmslmcmr
+After: 19chrfkm6gqlfcfhmslmcmr
+Number Found: 16
+Before: dzrt197twonine
+After: dzrt19729
+Number Found: 19
+Before: vmrlbm5five
+After: vmrlbm55
+Number Found: 55
+Before: pthree3six417frljvddzjtgdvmmh
+After: p336417frljvddzjtgdvmmh
+Number Found: 37
+Before: fournine7lmzdrxvjsixlmfsgtwonesn
+After: 497lmzdrxvj6lmfsg2nesn
+Number Found: 42
+Before: ngt8fdcsgmbbvrone3
+After: ngt8fdcsgmbbvr13
+Number Found: 83
+Before: 3hfhppzdfp
+After: 3hfhppzdfp
+Number Found: 33
+Before: sevenqvrlkpgxnqfivexnzpxcnine99
+After: 7qvrlkpgxnq5xnzpxc999
+Number Found: 79
+Before: 38oneightg
+After: 381ightg
+Number Found: 31
+Before: 4fivezjzsstlfxp1pdjmmnvjvtthree
+After: 45zjzsstlfxp1pdjmmnvjvt3
+Number Found: 43
+Before: xfngrdrfseven5rcsqtflhsqz
+After: xfngrdrf75rcsqtflhsqz
+Number Found: 75
+Before: three3jtndtxpx
+After: 33jtndtxpx
+Number Found: 33
+Before: eightfour8xxtkjsjlrsmg6
+After: 848xxtkjsjlrsmg6
+Number Found: 86
+Before: 1qnjttkhzltvj2xtlts6lqlxrf
+After: 1qnjttkhzltvj2xtlts6lqlxrf
+Number Found: 16
+Before: eight817two52sixgmhsrnlzm
+After: 88172526gmhsrnlzm
+Number Found: 86
+Before: fourgxbk81
+After: 4gxbk81
+Number Found: 41
+Before: eight6eight
+After: 868
+Number Found: 88
+Before: 4pllfiveeightsixonekhxvhvx1
+After: 4pll5861khxvhvx1
+Number Found: 41
+Before: 41twothree
+After: 4123
+Number Found: 43
+Before: 9pcdldnine
+After: 9pcdld9
+Number Found: 99
+Before: vkkncnrblg2x36
+After: vkkncnrblg2x36
+Number Found: 26
+Before: sevenzrqsix3
+After: 7zrq63
+Number Found: 73
+Before: ccpnk5threeeight1
+After: ccpnk5381
+Number Found: 51
+Before: rj69
+After: rj69
+Number Found: 69
+Before: ninedzgnsvrjbg4eight
+After: 9dzgnsvrjbg48
+Number Found: 98
+Before: nine3onesevenxvpmmt5eight
+After: 9317xvpmmt58
+Number Found: 98
+Before: drcbrg9eighttvdqgrchlqnineseven
+After: drcbrg98tvdqgrchlq97
+Number Found: 97
+Before: five6two3bgzgtvxmj8
+After: 5623bgzgtvxmj8
+Number Found: 58
+Before: sixfive9
+After: 659
+Number Found: 69
+Before: 7txddsmg2hzhz1fourkkthree1
+After: 7txddsmg2hzhz14kk31
+Number Found: 71
+Before: 3pvgxxxmpt5eighttwocnvnine
+After: 3pvgxxxmpt582cnv9
+Number Found: 39
+Before: cdnbkl3
+After: cdnbkl3
+Number Found: 33
+Before: twosix9sixninevftwo1
+After: 26969vf21
+Number Found: 21
+Before: 392
+After: 392
+Number Found: 32
+Before: 427twozqp79sixtwo
+After: 4272zqp7962
+Number Found: 42
+Before: 2jpkrm16
+After: 2jpkrm16
+Number Found: 26
+Before: threelbspfkeighthxmmcpprmeightthree3
+After: 3lbspfk8hxmmcpprm833
+Number Found: 33
+Before: bvtfzpr36nine
+After: bvtfzpr369
+Number Found: 39
+Before: qdzfdzbvnk47twofive4two5
+After: qdzfdzbvnk4725425
+Number Found: 45
+Before: ninethreedfzrphlvkpbvtvmzjxgmrh6five
+After: 93dfzrphlvkpbvtvmzjxgmrh65
+Number Found: 95
+Before: cjnq7gnpnpt
+After: cjnq7gnpnpt
+Number Found: 77
+Before: six8nine2
+After: 6892
+Number Found: 62
+Before: chsdgnlrzqnddfjthreebhfdvlgfpfshkeightseven6
+After: chsdgnlrzqnddfj3bhfdvlgfpfshk876
+Number Found: 36
+Before: nmlqvslhk6fourninexpzlf9pfnbrnhphxzxh
+After: nmlqvslhk649xpzlf9pfnbrnhphxzxh
+Number Found: 69
+Before: eight9nfgtsjxnteight8pfpfctjxxbffxsmjtwonegcd
+After: 89nfgtsjxnt88pfpfctjxxbffxsmj2negcd
+Number Found: 82
+Before: nine8m1
+After: 98m1
+Number Found: 91
+Before: 9sixseven
+After: 967
+Number Found: 97
+Before: 218
+After: 218
+Number Found: 28
+Before: 6brzzmkxsm
+After: 6brzzmkxsm
+Number Found: 66
+Before: ftxrrhzz1five98kninepc
+After: ftxrrhzz1598k9pc
+Number Found: 19
+Before: 3kkmbvvvtwoksspmqksevenoneplone
+After: 3kkmbvvv2ksspmqk71pl1
+Number Found: 31
+Before: eight3sevenfour7two8md4
+After: 8374728md4
+Number Found: 84
+Before: jvtk22472
+After: jvtk22472
+Number Found: 22
+Before: threetmpkcsjsixfour6twoseven4
+After: 3tmpkcsj646274
+Number Found: 34
+Before: kclmjgdplc23ninekmqbrkxrkdhsnnhmthreecfive
+After: kclmjgdplc239kmqbrkxrkdhsnnhm3c5
+Number Found: 25
+Before: xkzbzkszml641one54phdfghtbdd
+After: xkzbzkszml641154phdfghtbdd
+Number Found: 64
+Before: 3442four8vr7
+After: 344248vr7
+Number Found: 37
+Before: 6lthree
+After: 6l3
+Number Found: 63
+Before: lfrlxpczfiveseven2
+After: lfrlxpcz572
+Number Found: 52
+Before: fhjjlb1fiveninempnvlzbkhsvqf6
+After: fhjjlb159mpnvlzbkhsvqf6
+Number Found: 16
+Before: fiveone66onesix6dtwo
+After: 5166166d2
+Number Found: 52
+Before: 91bgqfz1four8
+After: 91bgqfz148
+Number Found: 98
+Before: 7two8sevencvfjhqmdtfone
+After: 7287cvfjhqmdtf1
+Number Found: 71
+Before: 889two3db36
+After: 88923db36
+Number Found: 86
+Before: sevenhlljx5qoneeightfivemvsmbzdbznine
+After: 7hlljx5q185mvsmbzdbz9
+Number Found: 79
+Before: one45sixft6eight6rbf
+After: 1456ft686rbf
+Number Found: 16
+Before: gdsevenknlfourkmzlpvv3flsfvnmfseveneight
+After: gd7knl4kmzlpvv3flsfvnmf78
+Number Found: 78
+Before: 3qbs622fivemzqpxdfkssix
+After: 3qbs6225mzqpxdfks6
+Number Found: 36
+Before: 275fr2eightoneone
+After: 275fr2811
+Number Found: 21
+Before: lktbgbhngfbrzdponerqstslfourhjxgmv1qcj
+After: lktbgbhngfbrzdp1rqstsl4hjxgmv1qcj
+Number Found: 11
+Before: two9fivelsxpd2six
+After: 295lsxpd26
+Number Found: 26
+Before: 9eightnine
+After: 989
+Number Found: 99
+Before: qmteightwosixseventznkgmnhjvdfxvqv8
+After: qmt8wo67tznkgmnhjvdfxvqv8
+Number Found: 88
+Before: ninenine9jdgndgnfour3pgb4gdpjnt
+After: 999jdgndgn43pgb4gdpjnt
+Number Found: 94
+Before: three3sevenzcbllclmseven1threeeight
+After: 337zcbllclm7138
+Number Found: 38
+Before: xzbkxnttninexsj2
+After: xzbkxntt9xsj2
+Number Found: 92
+Before: ngrgdonefive94fivehgnt7
+After: ngrgd15945hgnt7
+Number Found: 17
+Before: 3nineqnvhsninetfeight22eightwoqf
+After: 39qnvhs9tf8228woqf
+Number Found: 38
+Before: phrzskrhbd9five8nine
+After: phrzskrhbd9589
+Number Found: 99
+Before: dqqnfive1
+After: dqqn51
+Number Found: 51
+Before: hsjrhjvmlqxltxxgqx6qbfsnrhgbkl
+After: hsjrhjvmlqxltxxgqx6qbfsnrhgbkl
+Number Found: 66
+Before: four5hrpnq
+After: 45hrpnq
+Number Found: 45
+Before: vfsqhhgb6eightgtjlvnxnqsrjn3pg
+After: vfsqhhgb68gtjlvnxnqsrjn3pg
+Number Found: 63
+Before: 71fiveknrgx7
+After: 715knrgx7
+Number Found: 77
+Before: dpeightdbvpnfour1
+After: dp8dbvpn41
+Number Found: 81
+Before: two59blldsls85
+After: 259blldsls85
+Number Found: 25
+Before: three22nfvmtd77mbjnvxqbdxkxvp
+After: 322nfvmtd77mbjnvxqbdxkxvp
+Number Found: 37
+Before: five56five22
+After: 556522
+Number Found: 52
+Before: jtqeighttnkzkbbtwoninepzxphtlbzsv8
+After: jtq8tnkzkbb29pzxphtlbzsv8
+Number Found: 88
+Before: 1zhktrqsklfivegxdhrqt
+After: 1zhktrqskl5gxdhrqt
+Number Found: 15
+Before: three422
+After: 3422
+Number Found: 32
+Before: 8sqlrqn9
+After: 8sqlrqn9
+Number Found: 89
+Before: zh8
+After: zh8
+Number Found: 88
+Before: 1fourone8
+After: 1418
+Number Found: 18
+Before: 94kkqb9four9
+After: 94kkqb949
+Number Found: 99
+Before: 6sixkbvxf
+After: 66kbvxf
+Number Found: 66
+Before: rbvxqgztwopcbhhgzthl6xsix1qjrvfive
+After: rbvxqgz2pcbhhgzthl6x61qjrv5
+Number Found: 25
+Before: two29one594brhbpnine
+After: 2291594brhbp9
+Number Found: 29
+Before: 7fivebczzcfeightfour
+After: 75bczzcf84
+Number Found: 74
+Before: bxqrdcx7sixthree
+After: bxqrdcx763
+Number Found: 73
+Before: xjqchs31twoeightthreesevennine
+After: xjqchs3128379
+Number Found: 39
+Before: 83five8qvnrcllfhddhltsevenone
+After: 8358qvnrcllfhddhlt71
+Number Found: 81
+Before: gsjjxtvtck7six
+After: gsjjxtvtck76
+Number Found: 76
+Before: cxsbtkzcgjbgninehhmzzfnine3bpzg7
+After: cxsbtkzcgjbg9hhmzzf93bpzg7
+Number Found: 97
+Before: six7threedbhtvcvjtmeightz
+After: 673dbhtvcvjtm8z
+Number Found: 68
+Before: pdfmjbqgvkr5t
+After: pdfmjbqgvkr5t
+Number Found: 55
+Before: cqbkrkfivexkmvgqfbfsg5zmfhbqkdcq1
+After: cqbkrk5xkmvgqfbfsg5zmfhbqkdcq1
+Number Found: 51
+Before: 6ptrseven65tvbjkqlhjhjq26oneighthsp
+After: 6ptr765tvbjkqlhjhjq261ighthsp
+Number Found: 61
+Before: 39eighttwoninetwomnszqrmtvj
+After: 398292mnszqrmtvj
+Number Found: 32
+Before: hfpcgzrp8pmmvonevtnfpfltmgxqzntwo
+After: hfpcgzrp8pmmv1vtnfpfltmgxqzn2
+Number Found: 82
+Before: seven6cd8eightr
+After: 76cd88r
+Number Found: 78
+Before: 1vbpfiveseven5gsqdpchrjzfour
+After: 1vbp575gsqdpchrjz4
+Number Found: 14
+Before: 7zlxvvjmlnonesix67two2sfggmgbmm
+After: 7zlxvvjmln166722sfggmgbmm
+Number Found: 72
+Before: rmgvfvdhhgztrrn966six9oneone
+After: rmgvfvdhhgztrrn9666911
+Number Found: 91
+Before: 6nkvznctwoone
+After: 6nkvznc21
+Number Found: 61
+Before: eightthreeg9nine7six
+After: 83g9976
+Number Found: 86
+Before: shthreethree1
+After: sh331
+Number Found: 31
+Before: tm1eight8rone575
+After: tm188r1575
+Number Found: 15
+Before: nv6
+After: nv6
+Number Found: 66
+Before: tpkgndlhdzlfour1fouronethreenhmgtjzn3
+After: tpkgndlhdzl41413nhmgtjzn3
+Number Found: 43
+Before: 9onetwol2qmltninehtrmfxcsbfghk
+After: 912l2qmlt9htrmfxcsbfghk
+Number Found: 99
+Before: 2vbqxkgp5two89one
+After: 2vbqxkgp52891
+Number Found: 21
+Before: 428ninefcskeight
+After: 4289fcsk8
+Number Found: 48
+Before: g3fournine55eight
+After: g349558
+Number Found: 38
+Before: hmnvcgtqsixfivebone6
+After: hmnvcgtq65b16
+Number Found: 66
+Before: mpcp55xdfive33mdbsc
+After: mpcp55xd533mdbsc
+Number Found: 53
+Before: bfpfrrlqsixfq9cnzvffncbn
+After: bfpfrrlq6fq9cnzvffncbn
+Number Found: 69
+Before: hmpvxz3fiveklnnjcvgxtplhhzdrn8seven
+After: hmpvxz35klnnjcvgxtplhhzdrn87
+Number Found: 37
+Before: gqr6fiveltkqqfvkhconeseven4rlqnvmmkgcx
+After: gqr65ltkqqfvkhc174rlqnvmmkgcx
+Number Found: 64
+Before: two2eightwokcr
+After: 22eigh2kcr
+Number Found: 22
+Before: eight1zmqpcjbbxkkcnk8
+After: 81zmqpcjbbxkkcnk8
+Number Found: 88
+Before: pq6qhfnm
+After: pq6qhfnm
+Number Found: 66
+Before: sevenseventwo5three7
+After: 772537
+Number Found: 77
+Before: 7eight1mkpmsvpmqfjnvqzgbjkmpc2
+After: 781mkpmsvpmqfjnvqzgbjkmpc2
+Number Found: 72
+Before: gtwoflpblvv6xzpblmfcbx
+After: g2flpblvv6xzpblmfcbx
+Number Found: 26
+Before: 32five
+After: 325
+Number Found: 35
+Before: four3two843nlxxhktmcdoneightjh
+After: 432843nlxxhktmcd1ightjh
+Number Found: 41
+Before: 89gjs7eightnineonethree4
+After: 89gjs789134
+Number Found: 84
+Before: 4rfcbkgrcfb6three7jblgcrrxp5
+After: 4rfcbkgrcfb637jblgcrrxp5
+Number Found: 45
+Before: mhs47tqvkt31twofive
+After: mhs47tqvkt3125
+Number Found: 45
+Before: pspptsbp55
+After: pspptsbp55
+Number Found: 55
+Before: fourfour5twogdvjvskqx8foursix
+After: 4452gdvjvskqx846
+Number Found: 46
+Before: eightxfvnrpcvjtfkvlng91eightcdgzhxzcm
+After: 8xfvnrpcvjtfkvlng918cdgzhxzcm
+Number Found: 88
+Before: nine5psngtrxms5vnrbjjrpgt
+After: 95psngtrxms5vnrbjjrpgt
+Number Found: 95
+Before: 5xnlqscssbfiveeighteight14
+After: 5xnlqscssb58814
+Number Found: 54
+Before: svzlbtdkhs5eightfourgzhsix944
+After: svzlbtdkhs584gzh6944
+Number Found: 54
+Before: fourbphkpbkcfss5l
+After: 4bphkpbkcfss5l
+Number Found: 45
+Before: 4four6
+After: 446
+Number Found: 46
+Before: onetwo99
+After: 1299
+Number Found: 19
+Before: nzhlddbkgcbxvpfour1twofiveseventhree3
+After: nzhlddbkgcbxvp4125733
+Number Found: 43
+Before: 2one2txrzz8fivethree
+After: 212txrzz853
+Number Found: 23
+Before: seven86
+After: 786
+Number Found: 76
+Before: two3tznttbfkzzbthreexqhxqmbj
+After: 23tznttbfkzzb3xqhxqmbj
+Number Found: 23
+Before: dskppdthree2
+After: dskppd32
+Number Found: 32
+Before: seven4lfive
+After: 74l5
+Number Found: 75
+Before: hnftvrk8fhhzrqzxxqzbhvjhflv2nine
+After: hnftvrk8fhhzrqzxxqzbhvjhflv29
+Number Found: 89
+Before: eightsix2zbsgtdvrone
+After: 862zbsgtdvr1
+Number Found: 81
+Before: rmssljck3sixfivehvsvtwo9ctrbfvhpxfrr
+After: rmssljck365hvsv29ctrbfvhpxfrr
+Number Found: 39
+Before: 3nphszlp7ktrtzflbvxnfive
+After: 3nphszlp7ktrtzflbvxn5
+Number Found: 35
+Before: cfrrckdlfmjkmvjbtxnsdq613hxlsix6
+After: cfrrckdlfmjkmvjbtxnsdq613hxl66
+Number Found: 66
+Before: spljfjrlrsix2fsl
+After: spljfjrlr62fsl
+Number Found: 62
+Before: threeonezdbmxps9
+After: 31zdbmxps9
+Number Found: 39
+Before: two2lnbvmmpnqq8ssonethree
+After: 22lnbvmmpnqq8ss13
+Number Found: 23
+Before: vvpjpvm6two7
+After: vvpjpvm627
+Number Found: 67
+Before: 424
+After: 424
+Number Found: 44
+Before: threek811nine1five2
+After: 3k8119152
+Number Found: 32
+Before: 82mfsgmh
+After: 82mfsgmh
+Number Found: 82
+Before: ninerrjtnkm4nine
+After: 9rrjtnkm49
+Number Found: 99
+Before: sevenonenine7
+After: 7197
+Number Found: 77
+Before: nine16698llgxbbglggone
+After: 916698llgxbbglgg1
+Number Found: 91
+Before: knhnxtj6ntkxnine2eight7
+After: knhnxtj6ntkx9287
+Number Found: 67
+Before: 286nx
+After: 286nx
+Number Found: 26
+Before: twocbxfonenineonerxvdjzjzcp2
+After: 2cbxf191rxvdjzjzcp2
+Number Found: 22
+Before: 2one5
+After: 215
+Number Found: 25
+Before: ninethree25sevenfour69
+After: 93257469
+Number Found: 99
+Before: chthreeone9eightoneshlgndnrjoneightcs
+After: ch31981shlgndnrj1ightcs
+Number Found: 31
+Before: 2onenvfszxbphone
+After: 21nvfszxbph1
+Number Found: 21
+Before: 9threefour
+After: 934
+Number Found: 94
+Before: eightonenine28one
+After: 819281
+Number Found: 81
+Before: 3bshksixrlncdqtk3foureighthjcmmktsvx
+After: 3bshk6rlncdqtk348hjcmmktsvx
+Number Found: 38
+Before: prlsj7seven
+After: prlsj77
+Number Found: 77
+Before: gqxoneightzmcsqsbvhbthreefive16
+After: gqx1ightzmcsqsbvhb3516
+Number Found: 16
+Before: 3kbqbzm2sixnine52onekrtoneighttq
+After: 3kbqbzm269521krt1ighttq
+Number Found: 31
+Before: hqnfive2one
+After: hqn521
+Number Found: 51
+Before: jfive17onemzd
+After: j5171mzd
+Number Found: 51
+Before: 6one2eighttnjzjk
+After: 6128tnjzjk
+Number Found: 68
+Before: vtmcxnttlxltcmseven2svp2pnzkbgzzzj2one
+After: vtmcxnttlxltcm72svp2pnzkbgzzzj21
+Number Found: 71
+Before: 54mhqbcpzgsd2ld
+After: 54mhqbcpzgsd2ld
+Number Found: 52
+Before: 3fvbnineeight
+After: 3fvb98
+Number Found: 38
+Before: fivejrxqnqp11cxeighttwojqbqnhmeight
+After: 5jrxqnqp11cx82jqbqnhm8
+Number Found: 58
+Before: twoonetwo49sixxjbkdoneseven
+After: 212496xjbkd17
+Number Found: 27
+Before: 7qnqpfb9xrhtxkfz9three
+After: 7qnqpfb9xrhtxkfz93
+Number Found: 73
+Before: one8four1
+After: 1841
+Number Found: 11
+Before: 2r3lrgjltxxlrhrvfltwoonevq
+After: 2r3lrgjltxxlrhrvfl21vq
+Number Found: 21
+Before: jkptfcvdtwo347mjrqd
+After: jkptfcvd2347mjrqd
+Number Found: 27
+Before: eight9cxstff
+After: 89cxstff
+Number Found: 89
+Before: 7nqqbkcsftknhqffjvr2sevenpkjvtc
+After: 7nqqbkcsftknhqffjvr27pkjvtc
+Number Found: 77
+Before: seven5sevenrsthreefiveone
+After: 757rs351
+Number Found: 71
+Before: 8mmvdqhone584eighteightfive
+After: 8mmvdqh1584885
+Number Found: 85
+Before: 7sevenjjgvr4
+After: 77jjgvr4
+Number Found: 74
+Before: 465nineninesqnslzrfpl
+After: 46599sqnslzrfpl
+Number Found: 49
+Before: ljqnr737gvfmpjztrsbns8two
+After: ljqnr737gvfmpjztrsbns82
+Number Found: 72
+Before: hkmdgbbrzpjczpqkhzkdmndlftxgtwoeight26
+After: hkmdgbbrzpjczpqkhzkdmndlftxg2826
+Number Found: 26
+Before: nhskzhxfk26lpklkkkdnxeight
+After: nhskzhxfk26lpklkkkdnx8
+Number Found: 28
+Before: sixrqcjqseven7sbqlnpqvshxninebxmkxfrznine
+After: 6rqcjq77sbqlnpqvshx9bxmkxfrz9
+Number Found: 69
+Before: xlrrfnt7jjhfqzr
+After: xlrrfnt7jjhfqzr
+Number Found: 77
+Before: one9six3
+After: 1963
+Number Found: 13
+Before: sevensevenpsbgtgqpmbsbbpldvbz2qsstxlcgkd
+After: 77psbgtgqpmbsbbpldvbz2qsstxlcgkd
+Number Found: 72
+Before: 5qpmvbnpfiveoneeightsevenone78
+After: 5qpmvbnp5187178
+Number Found: 58
+Before: four69seven
+After: 4697
+Number Found: 47
+Before: 2nv
+After: 2nv
+Number Found: 22
+Before: 1twovfmvk33gcrsfgdbms
+After: 12vfmvk33gcrsfgdbms
+Number Found: 13
+Before: fivetwoone93
+After: 52193
+Number Found: 53
+Before: g4sixjbcqttbhnp6fourfplmzdtnltnjqdsthree
+After: g46jbcqttbhnp64fplmzdtnltnjqds3
+Number Found: 43
+Before: f3
+After: f3
+Number Found: 33
+Before: one3ninefiveone3hlsthrp7
+After: 139513hlsthrp7
+Number Found: 17
+Before: lmdgzgkrq747nine
+After: lmdgzgkrq7479
+Number Found: 79
+Before: fourtwo7
+After: 427
+Number Found: 47
+Before: 7353bdninesixxtc
+After: 7353bd96xtc
+Number Found: 76
+Before: njnsprmjxcjn42sixp1
+After: njnsprmjxcjn426p1
+Number Found: 41
+Before: 92onefour
+After: 9214
+Number Found: 94
+Before: 5eighthkdf
+After: 58hkdf
+Number Found: 58
+Before: 263fiveeight
+After: 26358
+Number Found: 28
+Before: four96one52fivendcnqcl
+After: 4961525ndcnqcl
+Number Found: 45
+Before: rcntpkdtjlcxkdg8
+After: rcntpkdtjlcxkdg8
+Number Found: 88
+Before: nt7g55ninetfzrjmhrv33
+After: nt7g559tfzrjmhrv33
+Number Found: 73
+Before: two19
+After: 219
+Number Found: 29
+Before: ninefive5threetwo73pxjfive
+After: 9553273pxj5
+Number Found: 95
+Before: onethree42
+After: 1342
+Number Found: 12
+Before: 9dctnplfgkeight9
+After: 9dctnplfgk89
+Number Found: 99
+Before: xpjtknfive6five
+After: xpjtkn565
+Number Found: 55
+Before: q1ninefour7
+After: q1947
+Number Found: 17
+Before: twohfdckgcddpmjbpmgbxnineeightxcxkhssjt1
+After: 2hfdckgcddpmjbpmgbx98xcxkhssjt1
+Number Found: 21
+Before: 8hgcs3onemnrcfbgsh9fdc
+After: 8hgcs31mnrcfbgsh9fdc
+Number Found: 89
+Before: 7zmgns94ninenmm
+After: 7zmgns949nmm
+Number Found: 79
+Before: 3four3
+After: 343
+Number Found: 33
+Before: hrrt3nine292fourfour
+After: hrrt3929244
+Number Found: 34
+Before: ljsbmrfmnpgg799twosixfoursix
+After: ljsbmrfmnpgg7992646
+Number Found: 76
+Before: sixjj6
+After: 6jj6
+Number Found: 66
+Before: gqmvmmjsjrgn7fiveninetwovnjbs
+After: gqmvmmjsjrgn7592vnjbs
+Number Found: 72
+Before: m2
+After: m2
+Number Found: 22
+Before: 525onefive
+After: 52515
+Number Found: 55
+Before: ninesixlm7fiveeight
+After: 96lm758
+Number Found: 98
+Before: fourfour6eight5gpkpjdxqvrsp
+After: 44685gpkpjdxqvrsp
+Number Found: 45
+Before: two5sixkrmxnszf1eight6seven
+After: 256krmxnszf1867
+Number Found: 27
+Before: 1bbmmf
+After: 1bbmmf
+Number Found: 11
+Before: 26two
+After: 262
+Number Found: 22
+Before: 9eighteightfivesix7
+After: 988567
+Number Found: 97
+Before: mcjcdnhlxv92qfbfbdpxfnxgbqsnxkonethreeseven7
+After: mcjcdnhlxv92qfbfbdpxfnxgbqsnxk1377
+Number Found: 97
+Before: 9qlvlrfivefzdxpmttsllhntpxpfthree
+After: 9qlvlr5fzdxpmttsllhntpxpf3
+Number Found: 93
+Before: djdjgxdpnd82five
+After: djdjgxdpnd825
+Number Found: 85
+Before: fiveonenine19four4two
+After: 51919442
+Number Found: 52
+Before: five69two7sfj
+After: 56927sfj
+Number Found: 57
+Before: twoonelvmdbdq2two
+After: 21lvmdbdq22
+Number Found: 22
+Before: qxeight6trprdmgqzj4
+After: qx86trprdmgqzj4
+Number Found: 84
+Before: eightfourdvmbvnjthreetwormzfr4qgdctg
+After: 84dvmbvnj32rmzfr4qgdctg
+Number Found: 84
+Before: fournngpdffcxt1six
+After: 4nngpdffcxt16
+Number Found: 46
+Before: seveneight6zeight9
+After: 786z89
+Number Found: 79
+Before: fkkmfbd7nineseven
+After: fkkmfbd797
+Number Found: 77
+Before: twobtkvbzgplfpjfiveseven5
+After: 2btkvbzgplfpj575
+Number Found: 25
+Before: 9jsjkjhgtghbqltldlcpqtvgpmhsixsix1four2
+After: 9jsjkjhgtghbqltldlcpqtvgpmh66142
+Number Found: 92
+Before: kxcgkvkmnblfive438
+After: kxcgkvkmnbl5438
+Number Found: 58
+Before: six6lbbqlttnvfiverxceightwobx
+After: 66lbbqlttnv5rxc8wobx
+Number Found: 68
+Before: 8sevenseven6three9ptfggzkhm
+After: 877639ptfggzkhm
+Number Found: 89
+Before: one7ninemdjznbqhfkckpjkxtwo12
+After: 179mdjznbqhfkckpjkx212
+Number Found: 12
+Before: 1bvjgdjlll
+After: 1bvjgdjlll
+Number Found: 11
+Before: 43kjdtwofiveseventhree9
+After: 43kjd25739
+Number Found: 49
+Before: fourlgzcrldtwoseven9xndlqvbrtonennvlvzplrt
+After: 4lgzcrld279xndlqvbrt1nnvlvzplrt
+Number Found: 41
+Before: 8twohzmcknlmqd
+After: 82hzmcknlmqd
+Number Found: 82
+Before: gshhvf5twodqgdseven8fourfoursix
+After: gshhvf52dqgd78446
+Number Found: 56
+Before: nineone47sixeightrp
+After: 914768rp
+Number Found: 98
+Before: 4stonekdgdhxrtqv9sixonevhhmhqzp
+After: 4st1kdgdhxrtqv961vhhmhqzp
+Number Found: 41
+Before: 8lmpppc
+After: 8lmpppc
+Number Found: 88
+Before: 4five8ffive
+After: 458f5
+Number Found: 45
+Before: fivefivesmmkh6jhtggr4
+After: 55smmkh6jhtggr4
+Number Found: 54
+Before: tjrr9ninenine
+After: tjrr999
+Number Found: 99
+Before: six6fiverqdlm67hztn2five
+After: 665rqdlm67hztn25
+Number Found: 65
+Before: six3278xsddmnz
+After: 63278xsddmnz
+Number Found: 68
+Before: 8qlhdpxn645nhrjm
+After: 8qlhdpxn645nhrjm
+Number Found: 85
+Before: xlfttcfs6jgtbeight6sixdvpl22
+After: xlfttcfs6jgtb866dvpl22
+Number Found: 62
+Before: 87tcj6gkjfrrmdjbgh4
+After: 87tcj6gkjfrrmdjbgh4
+Number Found: 84
+Before: 6eightsevennmdpkkmkqrffgshrfhml7two1
+After: 687nmdpkkmkqrffgshrfhml721
+Number Found: 61
+Before: ninemglsrmvqrk5six
+After: 9mglsrmvqrk56
+Number Found: 96
+Before: 9nfgt1rntwo1826
+After: 9nfgt1rn21826
+Number Found: 96
+Before: three2fiveonexrllxsvfive
+After: 3251xrllxsv5
+Number Found: 35
+Before: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+After: 9zjfkmdfbfqqf2mxpnqsmsthjzzszdxl
+Number Found: 92
+Before: 43eightnvdrthree1eightoneggrdmnp
+After: 438nvdr3181ggrdmnp
+Number Found: 41
+Before: pffldcmnlpsevensixqxhdncrclbc51five
+After: pffldcmnlp76qxhdncrclbc515
+Number Found: 75
+Before: 5bqnlphone6
+After: 5bqnlph16
+Number Found: 56
+Before: 195oneAfter: 1951Number Found: 11
+Final value: 57340

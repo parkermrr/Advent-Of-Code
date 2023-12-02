@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     prob1db
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _findAndReplace, symObjAddr: 0x0, symBinAddr: 0x1000038E8, symSize: 0x114 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _findAndReplace, symObjAddr: 0x0, symBinAddr: 0x1000038E8, symSize: 0x114 }
+  - { offsetInCU: 0xAE, offset: 0xAE, size: 0x8, addend: 0x0, symName: _preprocessLine, symObjAddr: 0x114, symBinAddr: 0x1000039FC, symSize: 0x180 }
+  - { offsetInCU: 0x143, offset: 0x143, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x294, symBinAddr: 0x100003B7C, symSize: 0x2B8 }
+...
